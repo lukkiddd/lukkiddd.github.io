@@ -6,7 +6,7 @@ tags: #business-value #recommendation
 ---
 
 
-## What is being measured
+### What is being measured
 
 - [[Click Through Rate]]
 	- Easy to measure and established
@@ -28,7 +28,7 @@ tags: #business-value #recommendation
 	- [[Effective Catalog Size]]
 
 
-## Baseline algorithm
+### Baseline algorithm
 - No recommender
 - Popularity-based
 	- Age discounted click count
@@ -47,7 +47,7 @@ tags: #business-value #recommendation
 	- Context-tree
 
 
-## The challenge of predicting business success from offline experiments
+### The challenge of predicting business success from offline experiments
 
 - Beyond-accuracy measures: Novelty, Diversity, Serendipity, and Coverage
 
