@@ -1072,7 +1072,7 @@ a.box-feed:active {
   .buttons:last-child {
     margin-bottom: -0.5rem; }
   .buttons:not(:last-child) {
-    margin-top: 0.7rem;
+    margin-top: 0.2rem;
   margin-left:2rem; }
   .buttons.are-small .button:not(.is-normal):not(.is-medium):not(.is-large) {
     border-radius: 2px;
