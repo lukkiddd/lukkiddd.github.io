@@ -9,7 +9,7 @@ date : 17-01-2022
 
 A metric that describes how spread viewing is across the items in our catalog. If most viewing comes from a single item, it will be close to 1. If all items generate the same amount of viewing, it is close to the number of videos in the catalog.
 
-![Alt Text](/assets/img/ECS.png "Effective Catalog Size function")
+![Effective Catalog Size function](/assets/img/ECS.png "Effective Catalog Size function")
 
 p is the probability mass function corresponding to the share of hours streamed from the popularity-ordered videos in the catalog.
 
