@@ -17,6 +17,6 @@ If we have 5 clicks and 100 impressions, then our CTR would be 5%.
 
 
 ### Supports
-- [[Google News Personalization 2007]]
+- [[Google News Personalization scalable online collaborative filtering]]
 
 
