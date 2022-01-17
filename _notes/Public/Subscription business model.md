@@ -25,5 +25,5 @@ Subscription business models are based on the idea of selling a product or servi
 
 #### Reference:
 
-[Investopedia - Subscription Business Model](https://www.investopedia.com/ask/answers/042715/how-do-subscription-business-models-work.asp)
-[6 Key Metrics for a Subscription Business](https://blogs.oracle.com/modernfinance/post/6-key-metrics-for-a-subscription-business)
+- [Investopedia - Subscription Business Model](https://www.investopedia.com/ask/answers/042715/how-do-subscription-business-models-work.asp)
+- [6 Key Metrics for a Subscription Business](https://blogs.oracle.com/modernfinance/post/6-key-metrics-for-a-subscription-business)
