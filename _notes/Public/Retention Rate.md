@@ -5,8 +5,6 @@ date : 17-01-2022
 tags: #metrics
 ---
 
-# Retention Rate
-
 Retention rate is the percentage of customers a business retains over a given period of time. This is a critical success metric for subscription-based businesses. A high retention rate logically would show that a business has a low churn rate.
 
 

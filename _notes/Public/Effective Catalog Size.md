@@ -6,8 +6,6 @@ tags: #metrics
 ---
 
 
-# Effective Catalog Size
-
 A metric that describes how spread viewing is across the items in our catalog. If most viewing comes from a single item, it will be close to 1. If all items generate the same amount of viewing, it is close to the number of videos in the catalog.
 
 ![Effective Catalog Size function](/assets/img/ECS.png)
