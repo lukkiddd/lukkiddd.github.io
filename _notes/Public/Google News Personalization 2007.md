@@ -1,11 +1,9 @@
 ---
-title : Google News Personalization - Scalable Online Collaborative Filtering
+title : Google News Personalization scalable online collaborative filtering
 notetype : feed
 date : 17-01-2022
 tags: #metrics
 ---
-
-#recommendation/news
 
 ### Problems
 1. Scalability
