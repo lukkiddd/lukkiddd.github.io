@@ -19,12 +19,5 @@ Retention Rate = Number of active active users that continue their subscription 
 
 #### Reference
 
-[Profitwell - How to calculate retention rate: Top 4 mistakes & retention rate formula](https://www.profitwell.com/customer-retention/calculate-retention-rate#:~:text=Retention%20rate%20is%20the%20percentage,has%20a%20low%20churn%20rate.)
-[ProductPlan - Retention Rate](https://www.productplan.com/glossary/retention-rate/)
-
-
----
-
-#### Backlinks
-[Subscription_Model](../business/Subscription_Model.md)
-
+- [Profitwell - How to calculate retention rate: Top 4 mistakes & retention rate formula](https://www.profitwell.com/customer-retention/calculate-retention-rate#:~:text=Retention%20rate%20is%20the%20percentage,has%20a%20low%20churn%20rate.)
+- [ProductPlan - Retention Rate](https://www.productplan.com/glossary/retention-rate/)
