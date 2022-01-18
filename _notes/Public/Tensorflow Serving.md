@@ -2,7 +2,6 @@
 title : Tensorflow Serving
 notetype : feed
 date : 18-01-2022
-tags: #machine-learning
 ---
 
 
@@ -179,3 +178,5 @@ pad_variable_length: true
 
 ```
 
+
+#tensorflow #machine-learning
