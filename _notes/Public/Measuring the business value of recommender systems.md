@@ -14,7 +14,7 @@ date : 17-01-2022
 	- Easy to measure
 	- Requires a domain-specific definition
 	- Requires interpretation
-- Sales and Revenue
+- [[Sales and Revenue]]
 	- Most informative measure
 	- Cannot always be determined directly
 - Effects on Sales Distributions
