@@ -10,7 +10,7 @@ date : 17-01-2022
 - [[Click Through Rate]]
 	- Easy to measure and established
 	- Not the ultimate goal
-- Adoption and Conversion Rates
+- [[Adoption and Conversion Rates]]
 	- Easy to measure
 	- Requires a domain-specific definition
 	- Requires interpretation
