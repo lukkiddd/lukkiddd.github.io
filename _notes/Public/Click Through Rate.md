@@ -35,7 +35,7 @@ If we have 5 clicks and 100 impressions, then our CTR would be 5%.
 - [[A Comparison of Offline Evaluations Online Evaluations and User Studies]]
 	- Offline is not suitable for evaluation
 	- CTR better than cite-through rate, link-through rate
-- [[A comparative analysis of offline and online evaluations and discussions of research paper recommender system evaluation]]
+- [[A Comparative analysis of offline and online evaluations and discussions of research paper recommender system evaluation]]
 	- 	Offline is contradict with online evaluations
 	- Both CTR and MAP never contradicted each other
 		- It could still be possible that MAP over users will differ
