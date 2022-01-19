@@ -41,7 +41,7 @@ If we have 5 clicks and 100 impressions, then our CTR would be 5%.
 		- It could still be possible that MAP over users will differ
 - [[TF-IDuF - A Novel Term-Weighting Scheme for User Modeling based on Users Personal Document Collections]]
 	- TF-IDuF achieved 5.14% CTR, equal to TF-IDF (5.09% CTR)
-- [[Evaluating Similarity Measures - A Large-Scale Study  in the Orkut Social Network]]
+- [[Evaluating Similarity Measures - A Large-Scale Study in the Orkut Social Network]]
 	- Use CTR for their measurements
 - [[Recommending ephemeral items at web scale]]
 	- 3-5 folds improvement in CTR and Purchase-through rate
