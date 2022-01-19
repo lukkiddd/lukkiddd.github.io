@@ -19,4 +19,4 @@ Increase in CTR about 35% for longer user sessions (context tree vs random)
 
 Florent Garcin, Boi Faltings, Olivier Donatsch, Ayar Alazzawi, Christophe Bruttin, and Amr Huber, “Offline and online evaluation of news recommender systems at swissinfo.ch,” in _Proceedings of the 8th ACM Conference on Recommender systems - RecSys ’14_, Foster City, Silicon Valley, California, USA, 2014, pp. 169–176. doi: [10.1145/2645710.2645745](https://doi.org/10.1145/2645710.2645745).
 
-#recommendation/news 
+#recommendation/news #recommendation

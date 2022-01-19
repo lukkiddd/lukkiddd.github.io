@@ -22,7 +22,7 @@ Adoption and Conversion Rates oftent requires a domain- and application specific
 - [[A Comparison of Offline Evaluations Online Evaluations and User Studies]]
 	- Link-Through-Rate
 	- Cite-Through-Rate
-- Evaluating Recommender Systems in Tourism - A Case Study from Austria
+- [[Evaluating Recommender Systems in Tourism - A Case Study from Austria]]
 	- CVR - Interact then issue an accomodation request
 - Where to go on your next trip - optimizing travel destinations based on user preferences
 	- Conversions
