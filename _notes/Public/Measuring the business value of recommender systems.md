@@ -48,7 +48,7 @@ date : 17-01-2022
 
 ### The challenge of predicting business success from offline experiments
 
-- Beyond-accuracy measures: Novelty, Diversity, Serendipity, and Coverage
+[[Recommendation Quality Factors]]
 
 ---
 
