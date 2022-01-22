@@ -39,4 +39,4 @@ date : 18-01-2022
 J. Beel and S. Langer, “A Comparison of Offline Evaluations, Online Evaluations, and User Studies in the Context of Research-Paper Recommender Systems,” in _Research and Advanced Technology for Digital Libraries_, vol. 9316, S. Kapidakis, C. Mazurek, and M. Werla, Eds. Cham: Springer International Publishing, 2015, pp. 153–168. doi: [10.1007/978-3-319-24592-8_12](https://doi.org/10.1007/978-3-319-24592-8_12).
 
 
-#recommendation
+#recommender-system

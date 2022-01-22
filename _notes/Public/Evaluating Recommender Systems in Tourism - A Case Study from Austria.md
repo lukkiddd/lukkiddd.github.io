@@ -26,4 +26,4 @@ date : 19-01-2022
 M. Zanker, M. Fuchs, W. Höpken, M. Tuta, and N. Müller, “Evaluating Recommender Systems in Tourism — A Case Study from Austria,” in _Information and Communication Technologies in Tourism 2008_, P. O’Connor, W. Höpken, and U. Gretzel, Eds. Vienna: Springer Vienna, 2008, pp. 24–34. doi: [10.1007/978-3-211-77280-5_3](https://doi.org/10.1007/978-3-211-77280-5_3).
 
 
-#recommendation #recommendation/tourism
+#recommender-system #recommender-system/tourism

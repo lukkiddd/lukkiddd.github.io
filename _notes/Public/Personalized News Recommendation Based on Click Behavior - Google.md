@@ -30,4 +30,4 @@ Improves the CTR upon the existing collaborative method by 30.9%.
 
 Jiahui Liu, Peter Dolan, and Elin Rønby Pedersen, “Personalized news recommendation based on click behavior,” in _Proceedings of the 15th international conference on Intelligent user interfaces - IUI ’10_, Hong Kong, China, 2010, p. 31. doi: [10.1145/1719970.1719976](https://doi.org/10.1145/1719970.1719976).
 
-#recommendation/news #recommendation
+#recommender-system/news #recommender-system

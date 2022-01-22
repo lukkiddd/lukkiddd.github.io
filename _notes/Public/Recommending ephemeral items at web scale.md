@@ -32,4 +32,4 @@ date : 18-01-2022
 Y. Chen and J. F. Canny, “Recommending ephemeral items at web scale,” in _Proceedings of the 34th international ACM SIGIR conference on Research and development in Information - SIGIR ’11_, Beijing, China, 2011, p. 1013. doi: [10.1145/2009916.2010051](https://doi.org/10.1145/2009916.2010051).
 
 
-#recommendation
+#recommender-system

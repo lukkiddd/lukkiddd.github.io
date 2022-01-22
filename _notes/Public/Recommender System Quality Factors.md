@@ -1,5 +1,5 @@
 ---
-title : Recommendation Quality Factors
+title : Recommender System Quality Factors
 notetype : feed
 date : 19-01-2022
 ---
@@ -14,16 +14,16 @@ date : 19-01-2022
 	- the recommender system should provide users with **options that are not already known to the users**.
 - Recommendation - Diversity
 	- A list of recommendations suggested to a user should be diverse to increase the chance of a conversion.
-- [[Recommendation - Serendipity]]
+- [[Recommender System - Serendipity]]
 	- Recommendations can help a user to discover products that are **unexpected and surprising**, as well as novel.
-- [[Recommendation - Coverage]]
+- [[Recommender System - Coverage]]
 	- The percentage of users or items over which the system can make recommendations
 
 
 ---
 
 - Beyond-accuracy measures: Novelty, Diversity, Serendipity, and Coverage
-	- How accuracy metrics have hurt recommender system
+	- [[Being accurate is not enough - how accuracy metrics have hurt recommender systems]]
 		- Prediction accuracy is not enough
 	- A survey and empirical analysis of beyond-accuracy objectives in recommender system
 		- by quantifying diversity based on pair-wise item similarities
@@ -55,4 +55,4 @@ date : 19-01-2022
 - [[Algorithmic Marketing]]
 
 
-#recommendation #recommendation/quality #metrics
+#recommender-system #recommender-system/quality #metrics

@@ -1,5 +1,5 @@
 ---
-title : News Recommendation
+title : News Recommender System
 notetype : feed
 date : 19-01-2022
 ---
@@ -22,4 +22,4 @@ date : 19-01-2022
 	- is a better proxy for user interest on news article than click, an efficient way to reduce click-baits
 
 
-#recommendation #recommendation/news 
+#recommender-system #recommender-system/news 

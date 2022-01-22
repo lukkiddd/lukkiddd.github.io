@@ -47,4 +47,4 @@ If we have 5 clicks and 100 impressions, then our CTR would be 5%.
 	- 3-5 folds improvement in CTR and Purchase-through rate
 
 
-#recommendation #metrics
+#recommender-system #metrics

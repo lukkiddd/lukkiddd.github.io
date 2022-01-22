@@ -37,4 +37,4 @@ Adoption and Conversion Rates oftent requires a domain- and application specific
 
 
 
-#recommendation #metrics
+#recommender-system #metrics

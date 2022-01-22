@@ -1,5 +1,5 @@
 ---
-title : Recommendation - Coverage
+title : Recommender System - Coverage
 notetype : feed
 date : 19-01-2022
 ---
@@ -13,4 +13,4 @@ date : 19-01-2022
 		- Catalogue Coverage
 - [[Effective Catalog Size]]
 
-#recommendation #recommendation/quality  #recommendation/coverage
+#recommender-system #recommender-system/quality  #recommender-system/coverage

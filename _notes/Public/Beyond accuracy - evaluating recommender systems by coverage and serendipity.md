@@ -57,8 +57,8 @@ u(RS_i) is a usefulness for the recommendation  if the recommendation in an unex
 
 #### Related
 - [[Effective Catalog Size]]
-- [[Recommendation - Coverage]]
-- [[Recommendation - Serendipity]]
+- [[Recommender System - Coverage]]
+- [[Recommender System - Serendipity]]
 
 
 
@@ -67,4 +67,4 @@ u(RS_i) is a usefulness for the recommendation  if the recommendation in an unex
 M. Ge, C. Delgado-Battenfeld, and D. Jannach, “Beyond accuracy: evaluating recommender systems by coverage and serendipity,” in _Proceedings of the fourth ACM conference on Recommender systems - RecSys ’10_, Barcelona, Spain, 2010, p. 257. doi: [10.1145/1864708.1864761](https://doi.org/10.1145/1864708.1864761).
 
 
-#recommendation #recommendation/quality #recommendation/coverage  #recommendation/serendipity
+#recommender-system #recommender-system/quality #recommender-system/coverage  #recommender-system/serendipity
