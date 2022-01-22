@@ -21,4 +21,4 @@ date : 22-01-2022
 S. M. McNee, J. Riedl, and J. A. Konstan, “Being accurate is not enough: how accuracy metrics have hurt recommender systems,” in _CHI ’06 Extended Abstracts on Human Factors in Computing Systems_, Montréal Québec Canada, Apr. 2006, pp. 1097–1101. doi: [10.1145/1125451.1125659](https://doi.org/10.1145/1125451.1125659).
 
 
-#recommender-system #recommender-system/quality 
+#recommender-system #recommender-system/quality #recommender-system/accuracy #recommender-system/serendipity 
