@@ -7,10 +7,12 @@ date : 17-01-2022
 Retention rate is the percentage of customers a business retains over a given period of time. This is a critical success metric for subscription-based businesses. A high retention rate logically would show that a business has a low churn rate.
 
 
+```
+Retention Rate = STILL_ACTIVE / START_ACTIVE
 
-Retention Rate = Number of active active users that continue their subscription / Total number of active users at the beginning of time period
-
-
+STILL_ACTIVE = Number of active users that continue their subscription
+START_ACTIVE = Total number of active users at the beginning of time period
+```
 
 ---
 
@@ -21,4 +23,4 @@ Retention Rate = Number of active active users that continue their subscription 
 
 
 
-#recommendation  #metrics 
+#recommender-system  #metrics 

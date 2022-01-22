@@ -1,5 +1,5 @@
 ---
-title : Recommendation - Serendipity
+title : Recommender System - Serendipity
 notetype : feed
 date : 19-01-2022
 ---
@@ -12,4 +12,4 @@ date : 19-01-2022
 		- Unexpected and usefulness (usefulness judge by user)
 
 
-#recommendation #recommendation/quality  #recommendation/serendipity 
+#recommender-system #recommender-system/quality  #recommender-system/serendipity 

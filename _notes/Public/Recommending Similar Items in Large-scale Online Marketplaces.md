@@ -31,4 +31,4 @@ date : 18-01-2022
 J. Katukuri, T. Konik, R. Mukherjee, and S. Kolay, “Recommending similar items in large-scale online marketplaces,” in _2014 IEEE International Conference on Big Data (Big Data)_, Washington, DC, USA, Oct. 2014, pp. 868–876. doi: [10.1109/BigData.2014.7004317](https://doi.org/10.1109/BigData.2014.7004317).
 
 
-#recommendation  #recommendation/ecommerce 
+#recommender-system  #recommender-system/ecommerce 

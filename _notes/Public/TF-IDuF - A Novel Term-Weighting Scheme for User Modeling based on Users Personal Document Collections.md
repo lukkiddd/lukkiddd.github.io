@@ -16,4 +16,4 @@ date : 18-01-2022
 J. Beel, S. Langer, and B. Gipp, “TF-IDuF: A Novel Term-Weighting Scheme for User Modeling based on Users’ Personal Document Collections,” p. 8, 2017.
 
 
-#recommendation
+#recommender-system

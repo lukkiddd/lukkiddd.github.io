@@ -38,4 +38,4 @@ date : 18-01-2022
 There are other interesting work which is [Fake Co-visitation Injection Attacks to Recommendr systems](https://www.youtube.com/watch?v=RZAUBBmhKFU&ab_channel=NDSSSymposium)
 
 
-#recommendation/videos #youtube #recommendation
+#recommender-system/videos #youtube #recommender-system
