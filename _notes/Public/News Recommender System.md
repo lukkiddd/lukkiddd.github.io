@@ -19,7 +19,7 @@ date : 19-01-2022
 - [[Click Through Rate]]
 - [[Adoption and Conversion Rates]]
 - Dwell time - [[Metrics, Engagement, and Personalization at Spotify]]
-	- is a better proxy for user interest on news article than click, an efficient way to reduce click-baits
+	- is a better proxy for user interest in news articles than click, an efficient way to reduce click-baits
 
 
 #recommender-system #recommender-system/news 

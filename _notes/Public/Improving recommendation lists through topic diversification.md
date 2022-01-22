@@ -20,7 +20,7 @@ date : 22-01-2022
 Results showed that these altered lists performed worse on accuracy measures than unchanged lists, but users preferred the altered lists.
 
 
-![Results for single-vote averages (a), coverd range of interests (b), and overall satisfaction (c)](/assets/img/results-improving-recommendation-list-through-topic-diversification.png)
+![Results for single-vote averages (a), covered range of interests (b), and overall satisfaction (c)](/assets/img/results-improving-recommendation-list-through-topic-diversification.png)
 
 
 

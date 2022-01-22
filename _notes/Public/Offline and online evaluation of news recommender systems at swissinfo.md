@@ -7,11 +7,11 @@ date : 18-01-2022
 
 ### Notes
 - Context-tree recommender systems which profile the users in real-time
-- the CTR overestimates the actual impact for popular items, and thus gives a skewed impression of the actual performance. Only comparing the actual article views can give a true picture of actual performance. 
+- the CTR overestimates the actual impact for popular items and thus gives a skewed impression of the actual performance. Therefore, only comparing the actual article views can accurately picture actual performance. 
 - Placing the recommendations at the top of the page more than doubled the CTR than at the bottom 
 
 ### Result
-Increase in CTR about 35% for longer user sessions (context tree vs random)
+Increase in CTR about 35% for longer user sessions (context tree vs. random)
 
 ---
 

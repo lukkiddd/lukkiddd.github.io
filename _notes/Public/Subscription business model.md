@@ -4,7 +4,7 @@ notetype : feed
 date : 17-01-2022
 ---
 
-Subscription business models are based on the idea of selling a product or service to receive monthly or yearly recurring subscription revenue. They focus on customer retention over customer acquisition
+Subscription business models are based on the idea of selling a product or service to receive monthly or yearly recurring subscription revenue. They focus on customer retention over customer acquisition.
 
 
 ### Metrics

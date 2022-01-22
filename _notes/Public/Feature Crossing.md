@@ -19,14 +19,14 @@ date : 25-01-2021
 ##### Pros
 
 - Help model to make prediction easier
-	- For example, the cross feature ‘**job ⊗ company**’ indicates that an individual takes a specific job in a specific company, and is a strong feature to predict one’s income
+	- For example, the cross feature ‘**job ⊗ company**’ indicates that an individual takes a specific job in a particular company and is a strong feature to predict one’s income
 - Faster training time → Reduce training cost
 - Cross features are highly interpretable
     
 
 ##### Cons
 
-- Can degraded learning performance
+- Can degrade learning performance
 	- Irrelevant or redundant or introduce noise
 - Cause sparsity
 
@@ -34,7 +34,7 @@ date : 25-01-2021
 
 ### Notes
 - Handling numerical features
-	- Bucketize or convert into categorical feature before create a feature cross
+	- Bucketize or convert into the categorical feature before creating a feature cross
 - Handling high cardinality
 	- Embedded them into an embedding layer to reduce the dimension
 
