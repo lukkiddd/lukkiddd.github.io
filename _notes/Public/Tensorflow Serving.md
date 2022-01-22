@@ -28,7 +28,7 @@ docker run -p 8500:8500 \
 ### 1 Model Polling
 
 
-Tensorflow serving has an option called `file_system_poll_wait_seconds` which try to poll the files within the specific interval.
+Tensorflow serving has an option called `file_system_poll_wait_seconds` which tries to poll the files within a specific interval.
 
 ```shell
 docker run ... \
@@ -38,7 +38,7 @@ docker run ... \
 
 ### 2 Remote files
 
-We can hosted the model files, along with other configuration files in the Cloud Storage (e.g. AWS, GCP)
+We can host the model files, along with other configuration files in the Cloud Storage (e.g., AWS, GCP)
 
 #### 2.1 Amazon Web Service (S3)
 
@@ -65,7 +65,7 @@ docker run ... \
 
 ## 3 Model Configuration
 
-There are a several configuration we can play around with. What we should do is create the file for configuration (e.g. named model_config_list) and use it when running Tensorflow serving
+There are several configurations we can play around with. What we should do is create the file for configuration (e.g., named `model_config_list`) and use it when running Tensorflow serving
 
 ```shell
 docker run ... \
@@ -74,7 +74,7 @@ docker run ... \
 ```
 
 
-Within the file named model_config_list we can specify different configuration.
+Within the file named `model_config_list` we can specify the different configurations.
 
 
 ### 3.1 Deploy multiple models
@@ -139,7 +139,7 @@ model_config_list {
 }
 ```
 
-Then client can call to different model version by specifying the model labels, versions, and model name
+Then the client can call to a different model version by specifying the model labels, versions, and model name.
 
 **REST Usage**
 
@@ -168,7 +168,7 @@ docker run ... \
 ```
 
 
-Within the `batching_parameters.txt` you can just write down the configuration
+Within the `batching_parameters.txt` you can just write down the configuration.
 
 
 ```txt

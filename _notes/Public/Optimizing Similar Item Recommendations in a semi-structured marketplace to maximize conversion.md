@@ -10,13 +10,13 @@ date : 18-01-2022
 - Recall + Ranking
 	- Recall: Candidate Generation
 		- Coviewed items
-			- A pair of items which have been frequently viewed together in the same browsing session by multiple users
+			- A pair of items that have been frequently viewed together in the same browsing session by multiple users
 			- Filter out covered from a different item category to ensure similarity.
 		- Title similarity
 			- Using ElasticSearch indexing scheme (TF/IDF) give higher quality than previous approaches [[Recommending Similar Items in Large-scale Online Marketplaces]] which used Locality Sensitive Hashing (LSH)
 	- Ranking
 		- Pointwise learning to rank problem
-		-  Binary classification whether purchased (positive class) vs non-clicked (negative class)
+		-  Binary classification,whether purchased (positive class) vs. non-clicked (negative class)
 		- Sampling
 			- KL divergence to get a quantitative measure of the overlap of the probability distributions for 2 classes
 			- The non- clicked / purchased strategy is optimal for class separation. Reflect…

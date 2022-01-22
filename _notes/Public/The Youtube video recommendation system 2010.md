@@ -21,7 +21,7 @@ date : 18-01-2022
 
 ### Results
 
-They run an experiment as followed.
+They run an experiment as follows.
 
 **Period**: 21 days
 
@@ -34,7 +34,7 @@ They run an experiment as followed.
 3. **Top Rated** - Most rated (liked) videos
 4. **Recommended** - Co-visitation along with users behaviors
 
-**Results**: CTR increased by 207% compared to Most viewed.
+**Results**: CTR increased by 207% compared to most viewed.
 
 
 ![Covisitation6](/assets/img/co-visitation-06.jpeg)

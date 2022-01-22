@@ -11,17 +11,17 @@ A metric that describes how spread viewing is across the items in our catalog. I
 
 `p` is the probability mass function corresponding to the share of hours streamed from the popularity-ordered videos in the catalog.
 
-`i` is ther order of popularity-ordered videos in the catalog.
+`i` is the order of popularity-ordered videos in the catalog.
 
 
 ### Example 1
-If we have 3 videos order by most streamed hours as below.
+If we have 3 videos ordered by most-streamed hours as below.
 
 **Video 1**: 10 hours
 **Video 2**: 6 hours
 **Video 3**: 3 hours
 
-Then the total streamed hours is 10+6+3 = 19 hours
+Then the total streamed hours is 10+6+3 = 19 hours.
 
 p of 1st video is 10/19 = ~0.526
 p of 2nd video is 6/19 = ~0.316

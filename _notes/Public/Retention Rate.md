@@ -4,7 +4,7 @@ notetype : feed
 date : 17-01-2022
 ---
 
-Retention rate is the percentage of customers a business retains over a given period of time. This is a critical success metric for subscription-based businesses. A high retention rate logically would show that a business has a low churn rate.
+Retention rate is the percentage of customers a business retains over a given period. This is a critical success metric for a subscription-based businesses model. Logically, a high retention rate would show that a business has a low churn rate.
 
 
 ```

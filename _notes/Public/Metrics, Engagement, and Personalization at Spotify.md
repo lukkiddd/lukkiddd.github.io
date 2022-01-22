@@ -39,7 +39,7 @@ date : 19-01-2022
 ---
 
 #### Reference
-- [[Jointly Leveragin Intent and Interaction Signals to Predict User Satisfaction with Slate Recommendation]]
+- [[Jointly Leveraging Intent and Interaction Signals to Predict User Satisfaction with Slate Recommendation]]
 - [[You Must Have Clicked on this Ad by Mistake]]
 - [Metrics, Engagement & Personalization at Spotify](https://www.slideshare.net/mounialalmas/metrics-engagement-personalization)
 

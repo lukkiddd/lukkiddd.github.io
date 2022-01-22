@@ -17,7 +17,7 @@ Decayed popularity
 
 ### Result
 
-Increase in CTR by 38% compared between propose method and baseline popularity.
+Increase in CTR by 38% compared between the proposed method and baseline popularity.
 
 ---
 

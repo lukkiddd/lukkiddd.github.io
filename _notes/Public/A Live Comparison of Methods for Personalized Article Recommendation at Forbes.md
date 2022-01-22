@@ -18,7 +18,7 @@ Popular
 
 ### Result
 
-Increase in CTR of 37% (Hybrid with Wiki vs popular)
+Increase in CTR of 37% (Hybrid with Wiki vs. popular)
 
 
 ---

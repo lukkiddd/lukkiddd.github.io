@@ -5,7 +5,7 @@ date : 18-01-2022
 ---
 
 
-Adoption and Conversion Rates oftent requires a domain- and application specific definition.
+Adoption and Conversion Rates often require a domain- and application-specific definition.
 
 
 
@@ -23,11 +23,11 @@ Adoption and Conversion Rates oftent requires a domain- and application specific
 	- Link-Through-Rate
 	- Cite-Through-Rate
 - [[Evaluating Recommender Systems in Tourism - A Case Study from Austria]]
-	- CVR - Interact then issue an accomodation request
+	- CVR - Interact then issue an accommodation request
 - Where to go on your next trip - optimizing travel destinations based on user preferences
 	- Conversions
 - On the value of reminders within e-commerce recommendation
-	- CVR - Count if user clicked then subsequently visited the external sites
+	- CVR - Count if a user clicked then subsequently visited the external sites
 - A deployed people-to-people recommender system in online dating
 	- Positive contacts per user
 	- Open communications per user

@@ -14,7 +14,7 @@ date : 18-01-2022
 	- Salton (IDF)
 	- Log-Odds
 - Using CTR
-- CVR (percentage of non-members who clicked through to aa community who then joined it)
+- CVR (percentage of non-members who clicked through to a community who then joined it)
 
 ---
 
