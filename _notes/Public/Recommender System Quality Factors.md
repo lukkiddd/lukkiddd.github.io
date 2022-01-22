@@ -7,12 +7,12 @@ date : 19-01-2022
 
 ### Notes
 
-- Recommendation - Accuracy or Relevance
+- [[Recommender System - Accuracy or Relevance]]
 	- The recommendation suggested to a user should be relevant, in the sense that a user has a **high propensity to purchase the recommended items** and rate them highly.
 	- Prediction accuracy is not enough
-- Recommendation - Novelty
+- Recommender System - Novelty
 	- the recommender system should provide users with **options that are not already known to the users**.
-- Recommendation - Diversity
+- Recommender System - Diversity
 	- A list of recommendations suggested to a user should be diverse to increase the chance of a conversion.
 - [[Recommender System - Serendipity]]
 	- Recommendations can help a user to discover products that are **unexpected and surprising**, as well as novel.
