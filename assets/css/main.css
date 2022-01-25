@@ -3934,3 +3934,11 @@ a.tag:hover {
   .homeblock h1 a:hover {
     color : var(--link);
   }
+
+
+  /* Personal CSS */
+  .content p > img:only-child {
+    max-width: 800px;
+    display: block;
+    margin: auto;
+  }
