@@ -17,7 +17,7 @@ date : 22-01-2022
 		- Random/Classique perform worst
 		- Popularity, (log) Popularity * Entropy, Item-Item personalized strategies give the reasonable performance on both metrics
 
-![Evaluation of strategies over both experiments on user effort and accuracy metrics](/assets/img/results-getting-to-know-you-learning-new-user-preference-in-recommender-system.png " Evaluation of strategies over both experiments on user effort and accuracy metrics.")
+![Evaluation of strategies over both experiments on user effort and accuracy metrics](/assets/img/results-getting-to-know-you-learning-new-user-preference-in-recommender-system.png "Evaluation of strategies over both experiments on user effort and accuracy metrics.")
 
 ---
 
