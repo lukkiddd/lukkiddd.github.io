@@ -21,7 +21,10 @@ title: Interests
 
 - [Search](/notes/Search)
 
+##### Machine Learning
 
-#### NFTs
+- [Machine Learning Systems Design](/notes/Machine-Learning-Systems-Design)
+
+##### NFTs
 
 - [NFT](/notes/NFT)
