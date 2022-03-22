@@ -23,8 +23,7 @@ date : 19-01-2022
 ---
 
 - Beyond-accuracy measures: Novelty, Diversity, Serendipity, and Coverage
-	- [[Being accurate is not enough - how accuracy metrics have hurt recommender systems]]
-		- Prediction accuracy is not enough
+	- [[Diversity, Serendipity, Novelty, and Coverage - A survey and Empirical Analysis of Beyond-Accuracy Objectives in Recommender Systems]]
 	- A survey and empirical analysis of beyond-accuracy objectives in recommender system
 		- by quantifying diversity based on pair-wise item similarities
 	- Rank and relevance in novelty and diversity metrics for recommender systems
