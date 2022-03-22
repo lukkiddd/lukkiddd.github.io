@@ -14,24 +14,24 @@ date : 22-03-2022
 - Model Performance Logging
 
 
-![model-serving-patterns](./assets/img/model-serving-patterns.png)
+![model-serving-patterns](/assets/img/model-serving-patterns.png)
 
 
 
-![model-serving-as-a-microservice](./assets/img/model-serving-as-a-microservice.png)
+![model-serving-as-a-microservice](/assets/img/model-serving-as-a-microservice.png)
 
 
-![model-as-service](./assets/img/model-as-service.png)
+![model-as-service](/assets/img/model-as-service.png)
 
 
-![model-as-dependency.png](./assets/img/model-as-dependency.png)
+![model-as-dependency.png](/assets/img/model-as-dependency.png)
 
 
-![pre-compute-serving-pattern](./assets/img/pre-compute-serving-pattern.png)
+![pre-compute-serving-pattern](/assets/img/pre-compute-serving-pattern.png)
 
 
-![model-on-demand](./assets/img/model-on-demand.png)
+![model-on-demand](/assets/img/model-on-demand.png)
 
 
-![federated-learning](./assets/img/federated-learning.png)
+![federated-learning](/assets/img/federated-learning.png)
 
