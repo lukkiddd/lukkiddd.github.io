@@ -25,7 +25,8 @@ title: Interests
 
 - [Machine Learning Systems Design](/notes/Machine-Learning-Systems-Design)
 - [Testing Machine Learning Code and Systems](/notes/Testing-Machine-Learning-Code-and-Systems)
-- [Machine Learning Operations](/notes/Machine-Laerning-Operations)
+- [Machine Learning Operations](/notes/Machine-Learning-Operations)
+
 ##### NFTs
 
 - [NFT](/notes/NFT)
