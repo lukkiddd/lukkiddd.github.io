@@ -16,3 +16,4 @@ date : 22-03-2022
 
 ![Evolution of MLOps](/assets/img/evolution_of_mlops.png)
 
+![[evolution_of_mlops.png]]

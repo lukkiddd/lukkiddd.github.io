@@ -15,7 +15,7 @@ date : 22-03-2022
 
 ### MLOps Principles
 
-![mlops-ci-cd](./assets/img/mlops-ci-cd.png)
+![mlops-ci-cd](/assets/img/mlops-ci-cd.png)
 
 
 #### Automation
