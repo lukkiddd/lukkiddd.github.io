@@ -35,6 +35,7 @@ date : 22-03-2022
 - Data Wrangling (Cleanig)
 	- Re-formatting attributes, correcting errors in data, such as missing values imputation
 	- Details:
+		- [[Data Imputations]]
 		- Transformations
 		- Outliers: Fix or remote outliers
 		- Missing values: Fill in missing values (e.g., withj zero, mean, median) or drop their rows or columns
