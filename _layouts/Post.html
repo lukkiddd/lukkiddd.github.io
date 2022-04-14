@@ -33,7 +33,7 @@
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta content="Lukkiddd's knowledge vault" property="og:site_name" />
     <meta
-        content="My Personal Knowledge Value"
+        content="{{ page.content | markdownify | strip_html | truncatewords: 50 }}"
         property="og:description">
     <meta content="{{ site.url }}/about/" property="article:author">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -44,12 +44,16 @@
     <meta content="{{ page.title }}" property="og:title">
     <meta content="article" property="og:type">
     <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    <title>{{page.title}} | {{site.heading}}</title>
     {%- else -%}
     <meta content="website" property="og:type">
     <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    <title>{{site.heading}}</title>
     {%- endif -%}
 
-    <title>{{site.heading}}</title>
+    <meta name="twitter:creator" content="lukkiddd">
+    <meta name="twitter:site" content="@lukkiddd">
+
 
     <link rel="canonical" href="{{site.url}}{{page.url}}" />
     <link rel="apple-touch-icon" href="/assets/img/profile.png">
