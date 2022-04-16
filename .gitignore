@@ -1,8 +1,6 @@
 _site
 .jekyll-cache
-pages/.DS_Store
 pages/tags.md
-_notes/.DS_Store
 _notes/.obsidian
 .DS_Store
 _notes/Private
