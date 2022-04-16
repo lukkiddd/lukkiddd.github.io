@@ -66,8 +66,7 @@
         {%- if note.url != page.url -%}
             {%- if note.content contains wiki_link_title -%}
             <div class="related-group"><a href="{{note.url}}">
-                <h4>{{ note.title }}</h4>
-                <p class="related-excerpt" style="margin: 0px;">{{ note.content | markdownify | strip_html | truncate: 100 }}</p>
+                {{ note.title }}
             </a></div>
             {%- endif -%}
         {%- endif -%}
@@ -76,13 +75,11 @@
         {%- if note.url != page.url -%}
             {%- if note.content contains wiki_link_title -%}
             <div class="related-group"><a href="{{note.url}}">
-                <h4>{{ note.title }}</h4>
-                <p class="related-excerpt" style="margin: 0px;">{{ note.content | markdownify | strip_html | truncate: 100 }}</p>
+                {{ note.title }}
             </a></div>
             {%- endif -%}
         {%- endif -%}
         {%- endfor -%}
     </div>
-    <br/>
 </div>
 {%- endif -%}
