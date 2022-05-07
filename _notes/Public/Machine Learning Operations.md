@@ -76,6 +76,7 @@ date : 22-03-2022
 - [Spotify - The Winding Road to Better Machine LEarning Infrastructure Through Tensorflow Extended and Kubeflow](https://engineering.atspotify.com/2019/12/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
 - [Grab - Catwalk: Serving Machine Learning Models at Scale](https://engineering.grab.com/catwalk-serving-machine-learning-models-at-scale)
 - [MLOps.toys - Training Orchestration](https://mlops.toys/training-orchestration)
+- [Shopify - The Magic of Merlin](https://shopify.engineering/merlin-shopify-machine-learning-platform)
 
 
 ---
