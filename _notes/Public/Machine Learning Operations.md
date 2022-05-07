@@ -73,7 +73,7 @@ date : 22-03-2022
 - [Uber - Michelangelo](https://eng.uber.com/michelangelo-machine-learning-platform/)
 	- [Evolving Michelangelo Model Representation for Flexibility at Scale](https://eng.uber.com/michelangelo-machine-learning-model-representation/)
 - [Lyfe - Flyte: A Cloud Native Machine Learning and Data Processing Platform](https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59)
-- [Spotify - The Winding Road to Better Machine LEarning Infrastructure Through Tensorflow Extended and Kubeflow](https://engineering.atspotify.com/2019/12/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
+- [Spotify - The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://engineering.atspotify.com/2019/12/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
 - [Grab - Catwalk: Serving Machine Learning Models at Scale](https://engineering.grab.com/catwalk-serving-machine-learning-models-at-scale)
 - [MLOps.toys - Training Orchestration](https://mlops.toys/training-orchestration)
 - [Shopify - The Magic of Merlin](https://shopify.engineering/merlin-shopify-machine-learning-platform)
