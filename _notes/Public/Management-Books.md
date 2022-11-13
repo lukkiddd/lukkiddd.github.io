@@ -1,5 +1,5 @@
 ---
-title : Machine Learning System Design
+title : Management Books
 notetype : feed
 date : 13-11-2022
 ---
