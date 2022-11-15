@@ -1543,3 +1543,8 @@ label.margin-toggle:not(.sidenote-number) {
   grid-template-columns: repeat(1, 1fr);
 }
 }
+
+.sub-text {
+    color: var(--text-sub);
+    font-size: 1.2rem;
+}
