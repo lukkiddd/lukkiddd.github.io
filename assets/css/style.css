@@ -5,9 +5,13 @@ layout: Stylesheet
 @import "/assets/css/highlight.css";
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
+html {
+    font-family: "Inter",-apple-system,BlinkMacSystemFont,"San Francisco","Segoe UI",Roboto,"Helvetica Neue",sans-serif;
+}
 html, html[data-theme="light"] {
-    --bg-main: #FFFFFF;
+    --bg-main: transparent;
     --bg-sub: #FAFAFC;
+    --bg-surface: #f4f4f4;
     --color-bis: #363636;
     --text-main: #18181C;
     --text-sub: #5D5D67;
@@ -16,29 +20,32 @@ html, html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-    --bg-main: #18181C;
-    --bg-sub: #262626;
+    --bg-main:transparent;
+    --bg-sub: #161616;
+    --bg-surface: #232323;
     --color-bis: #E6E6E6;
-    --text-main: #FAFAFC;
-    --text-sub: #FFFFFF;
-    --link: #6D9EFF;
-    --border: #353535;
+    --text-main: #ededed;
+    --text-sub: #a0a0a0;
+    --link: #52a9ff;
+    --border: #343434;
 }
 
 
 @media (prefers-color-scheme: dark) {
     html, html[data-theme="dark"] {
-        --bg-main: #18181C;
-        --bg-sub: #262626;
-        --text-main: #FAFAFC;
-        --text-sub: #FFFFFF;
-        --link: #6D9EFF;
-        --border: #353535;
+        --bg-main: transparent;
+        --bg-sub: #161616;
+        --bg-surface: #232323;
+        --text-main: #ededed;
+        --text-sub: #a0a0a0;
+        --link: #52a9ff;
+        --border: #343434;
     }
 
     html[data-theme="light"] {
-	    --bg-main: #FFFFFF;
+	    --bg-main: transparent;
         --bg-sub: #FAFAFC;
+        --bg-surface: #f4f4f4;
         --text-main: #18181C;
         --text-sub: #5D5D67;
         --link: #2380ED;
@@ -100,9 +107,9 @@ main {
 }
 
 @media screen and (min-width: 768px) {
-    .buttons.for-back-home:not(:last-child) {
+    /* .buttons.for-back-home:not(:last-child) {
         margin-left: 2rem;
-    } 
+    }  */
 }
 
 /* Phrasing Style: H1, H2, H3, H4, H5, H6, P, A, UL, LI */
@@ -189,39 +196,39 @@ h6 {
         font-size: 16px !important; 
     }
     h1 {
-        font-size: 2.441rem;
+        font-size: 1.9rem;
         font-weight: 600;
     }
 
     h2 {
-        font-size: 1.953rem;
+        font-size: 1.5rem;
         font-weight: 600;
     }
 
     h3 {
-        font-size: 1.563rem;
+        font-size: 1.3rem;
         font-weight: 600;
     }
 
     h4 {
-        font-size: 1.25rem;
+        font-size: 1rem;
         font-weight: 600;
     }
 
     h5 {
-        font-size: 1.25rem;
+        font-size: 0.9rem;
         font-weight: 400;
     }
 
     h6 {
-        font-size: 1rem;
+        font-size: 0.8rem;
         font-weight: 600;
     }
 }
 
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: "Inter",-apple-system,BlinkMacSystemFont,"San Francisco","Segoe UI",Roboto,"Helvetica Neue",sans-serif;
 }
 
 p a,
@@ -804,7 +811,8 @@ hr {
     margin-left: 0.5rem; 
     word-wrap: break-word; 
     border-left: 1px solid; 
-    border-left-color: var(--secondary-border-color); 
+    /* border-left-color: var(--secondary-border-color);  */
+    border-left-color: var(--border); 
     font-size: 11px !important; 
 }
 
@@ -856,8 +864,15 @@ hr {
     border-radius: 0; 
 }
 
+.search-active .input { 
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom: 0;
+}
 .search-active .search-results { 
     display: block; 
+    background-color: var(--bg-surface);
+    border: 1px solid var(--border);
 }
 
 .search-active .search-overlay { 
