@@ -5,7 +5,7 @@ date : 22-01-2022
 ---
 
 
-### Notes
+
 - [[System Design for Recommendations and Search - Eugene Yan]]
 - [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/)
 - [What's trending on Netflix](https://netflixtechblog.com/whats-trending-on-netflix-f00b4b037f61)

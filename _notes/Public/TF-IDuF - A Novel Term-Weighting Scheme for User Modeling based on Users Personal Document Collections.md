@@ -5,7 +5,7 @@ date : 18-01-2022
 ---
 
 
-### Notes
+
 - TF-IDuF achieved 5.14% CTR, equal to TF-IDF (5.09% CTR)
 
 

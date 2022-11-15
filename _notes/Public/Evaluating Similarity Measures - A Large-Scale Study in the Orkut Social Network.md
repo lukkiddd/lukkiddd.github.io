@@ -5,7 +5,7 @@ date : 18-01-2022
 ---
 
 
-### Notes
+
 - 6 measures of similarity for recommendations in social network
 	- L1-Norm
 	- L2-Norm

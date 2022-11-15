@@ -6,7 +6,7 @@ date : 24-01-2022
 
 
 
-### Notes
+
 - Typically
 	- Batch
 		- Pre-computed

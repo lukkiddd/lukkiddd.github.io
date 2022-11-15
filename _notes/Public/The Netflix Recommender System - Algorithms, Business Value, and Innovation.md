@@ -4,7 +4,7 @@ notetype : feed
 date : 18-01-2022
 ---
 
-### Notes
+
 1. Personalize Video Ranker: PVR
 	- Orders the entire catalog of videos (or subsets selected by genre or another filtering)
 2. Top-N Video Ranker

@@ -5,7 +5,7 @@ date : 18-01-2022
 ---
 
 
-### Notes
+
 
 - Offline process, generates long-term cluster based on product’s title
 	- e.g.

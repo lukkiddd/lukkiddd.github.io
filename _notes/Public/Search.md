@@ -4,7 +4,7 @@ notetype : feed
 date : 22-01-2022
 ---
 
-### Notes
+
 
 - https://doordash.engineering/2020/12/15/understanding-search-intent-with-better-recall/
 - [[Embedding-based Retrieval in Facebook Search]]

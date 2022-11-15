@@ -5,7 +5,7 @@ date : 2022-07-23
 ---
 
 
-## Notes
+
 - Interleaved experiment มักใช้ในการวัด ranking algorithm (e.g., search engines)
 - ใน interleaved experiment เราจะมี ranking algorithm 2 ตัว A และ  B
 	- Algorithm A โชว์ผล A1, A2, A3, A4

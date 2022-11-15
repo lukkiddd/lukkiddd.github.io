@@ -6,7 +6,7 @@ date : 19-01-2022
 
 
 
-#### Notes
+
 
 - Optimization metrics quantify how users engage within a session and act as proxy of satisfaction
 	- save

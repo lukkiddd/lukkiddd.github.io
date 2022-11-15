@@ -32,7 +32,7 @@ date : 25-01-2021
 
 
 
-### Notes
+
 - Handling numerical features
 	- Bucketize or convert into the categorical feature before creating a feature cross
 - Handling high cardinality

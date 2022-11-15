@@ -6,7 +6,7 @@ date : 19-01-2022
 
 
 
-### Notes
+
 
 - [[Google News Personalization scalable online collaborative filtering]]
 - [[Personalized News Recommendation Based on Click Behavior - Google]]

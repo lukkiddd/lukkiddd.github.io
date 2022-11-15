@@ -5,7 +5,7 @@ date : 22-01-2022
 ---
 
 
-### Notes
+
 
 - [Learning a Personalized Homepage - Netflix Tech Blog](https://netflixtechblog.com/learning-a-personalized-homepage-aa8ec670359a)
 - [Recent Trends in Personalization: A Netflix Perspective](https://www.slideshare.net/justinbasilico/recent-trends-in-personalization-a-netflix-perspective "https://www.slideshare.net/justinbasilico/recent-trends-in-personalization-a-netflix-perspective")  
