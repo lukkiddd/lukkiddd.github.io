@@ -6,8 +6,6 @@ date : 18-01-2022
 
 
 
-### Notes
-
 #### 1. Coverage
 - The coverage of a recommender is a measure of the domain of items over which the system can make recommendations
 - 2 concepts

@@ -5,7 +5,6 @@ date : 24-01-2022
 ---
 
 
-### Notes
 
 ![youtube-recommendation-system-overview](/assets/img/youtube-recommendation-system-overview.png)
 

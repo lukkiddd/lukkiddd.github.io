@@ -4,7 +4,6 @@ notetype : feed
 date : 19-01-2022
 ---
 
-### Notes
 
 - Promotions and advertisements
 - Search
