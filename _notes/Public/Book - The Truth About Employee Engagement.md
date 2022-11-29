@@ -11,7 +11,7 @@ date : 29-11-2022
 **Author**: [[Patrick Lencioni]]
 **My review**: ⭐⭐⭐ (3/5)
 
-**Summarise**
+**Summary**
 - Anonumity (การไม่มีตัวตน)
 	- Knowing other people as a person
 	- We do not need to be different person at work
