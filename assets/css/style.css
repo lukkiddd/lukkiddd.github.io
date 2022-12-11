@@ -1108,6 +1108,9 @@ li .mn-right {
 
 .tooltip:hover .right {
     display:block;
+    background: var(--bg-sub);
+    border: 1px solid var(--border);
+    padding: 1rem;
 }
 
 .tooltip .right i {
