@@ -1,7 +1,7 @@
 ---
 title : All about Churn
 notetype : feed
-date : 05-02-2023
+date : 19-02-2023
 ---
 
 
@@ -51,3 +51,21 @@ date : 05-02-2023
 	- Measuring churn over a time window that is different from the typical subscription length can result in errors in the churn rate
 - Seasonality
 	- Handle seasonality using time-series analysis
+
+
+#### Chapter 3
+- Metric QA
+	- How Metrics change over time
+		- Missing data in some days
+		- Extream value in some fields
+		- % account that has metrics
+- Event QA
+	- How events change over time
+		- Missing/Extream - by counts per day
+		- event  per accounts
+- Anomaly detection
+- 3.9 - Selecting measurekent period
+	- If an event is rare, use a longer period
+	- Short-time period are more responsive to changes, less sensitive at picking up accounts with low event levels
+	- For subscription with a fixed term like a month or a year, behavioral measurements should be similar in time scale to the term of the subscription
+	- 
