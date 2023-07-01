@@ -5,25 +5,39 @@ date : 18-05-2023
 ---
 
 
-
-
 ```sql
-WITH users AS
+WITH engagement AS
 (
-	SELECT  distinct user_id
-	       ,event_date
-	FROM `your_data`
-	WHERE event_date > DATE_SUB(CURRENT_DATE(), INTERVAL 56 DAY)
+	SELECT  event_date
+			,user_id
+	FROM engagement_table
+), dau AS
+(
+	SELECT  event_date
+	       ,COUNT(distinct user_id) AS count_dau
+	FROM engagement
+	GROUP BY  1
+) , string_aggregate AS
+(
+	SELECT  event_date
+	       ,STRING_AGG(DISTINCT user_id) AS users
+	FROM engagement
+	GROUP BY  1
+) , rolling_7 AS
+(
+	SELECT  event_date
+	       ,STRING_AGG(users) OVER(ORDER BY UNIX_DATE(event_date) RANGE BETWEEN 6 PRECEDING AND CURRENT ROW) users
+	FROM string_aggregate
+), wau AS
+(
+	SELECT  event_date
+	       ,(SELECT  COUNT(DISTINCT id) FROM UNNEST (SPLIT(users)) AS id) count_wau
+	FROM rolling_7
 )
-SELECT  daily.event_date
-       ,COUNT(distinct daily.user_id)   AS DAU
-       ,COUNT(distinct weekly.user_id)  AS WAU
-       ,COUNT(distinct monthly.user_id) AS MAU
-FROM users daily
-LEFT JOIN users weekly
-ON weekly.event_date BETWEEN date_sub(daily.event_date, interval 7 day) AND daily.event_date
-LEFT JOIN users monthly
-ON monthly.event_date BETWEEN date_sub(daily.event_date, interval 28 day) AND daily.event_date
-GROUP BY  daily.event_date
-ORDER BY daily.event_date asc
+
+
+SELECT  *
+       ,count_dau/count_wau AS stickiness
+FROM dau
+INNER JOIN wau USING (event_date)
 ```
