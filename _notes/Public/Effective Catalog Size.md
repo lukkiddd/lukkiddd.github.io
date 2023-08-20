@@ -1,5 +1,5 @@
 ---
-title : The Effective Catalog Size
+title : Effective Catalog Size
 notetype : feed
 date : 17-01-2022
 tags: #metrics
