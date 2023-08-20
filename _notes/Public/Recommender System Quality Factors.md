@@ -42,7 +42,7 @@ date : 19-01-2022
 		- Learning diverse rankings with multi-armed bandits
 		- Graph bandit for diverse user coverage in online recommendation
 	- Recommender systems evaluation - A3D Benchmark
-	- Improving recommendation lists through topic diversification
+	- [[Improving recommendation lists through topic diversification]]
 		- intra-list diversity
 - blockerbuster effect (rich-get-richer)
 
