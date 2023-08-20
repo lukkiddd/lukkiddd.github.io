@@ -6,7 +6,6 @@ date : 19-01-2022
 
 
 
-#### Notes
 
 - [Netflix Ads Personalization Solution - 2017](https://www.slideshare.net/KarthikMurugesan2/netflix-ads-personalization-solution-2017)
 - [Ads Personalization at Spotify - 10/23](https://www.slideshare.net/kinshukm1/ads-personalization-at-spotify-nyc-data-engineering-1023)

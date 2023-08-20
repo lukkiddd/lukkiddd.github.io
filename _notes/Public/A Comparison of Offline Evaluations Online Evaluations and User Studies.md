@@ -4,7 +4,6 @@ notetype : feed
 date : 18-01-2022
 ---
 
-### Notes
 
 - Evaluate recommender system
 	- offline evaluation

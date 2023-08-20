@@ -6,8 +6,6 @@ date : 18-01-2022
 
 
 
-### Notes
-
 - Offline evaluation contradict with online evaluation
 - Both CTR and MAP never contradicted each other
 	- It could still be possible that MAP over users will differ
