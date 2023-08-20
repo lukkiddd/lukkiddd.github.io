@@ -43,4 +43,4 @@ date : 19-01-2022
 - [[You Must Have Clicked on this Ad by Mistake]]
 - [Metrics, Engagement & Personalization at Spotify](https://www.slideshare.net/mounialalmas/metrics-engagement-personalization)
 
-#recommendation #recommendation/quality #metrics 
+#recommender-system #recommender-system/quality #metrics 

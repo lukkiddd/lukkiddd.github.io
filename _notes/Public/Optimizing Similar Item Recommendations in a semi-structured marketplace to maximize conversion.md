@@ -39,4 +39,4 @@ date : 18-01-2022
 Y. M. Brovman _et al._, “Optimizing Similar Item Recommendations in a Semi-structured Marketplace to Maximize Conversion,” in _Proceedings of the 10th ACM Conference on Recommender Systems_, Boston Massachusetts USA, Sep. 2016, pp. 199–202. doi: [10.1145/2959100.2959166](https://doi.org/10.1145/2959100.2959166).
 
 
-#recommendation/ecommerce #recommendation
+#recommender-system/ecommerce #recommender-system

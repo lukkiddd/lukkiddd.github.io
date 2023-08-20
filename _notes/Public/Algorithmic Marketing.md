@@ -8,7 +8,7 @@ date : 19-01-2022
 
 - Promotions and advertisements
 - Search
-- Recommendations
+- Recommender Systems
 - Pricing and assortment
 
 ---
