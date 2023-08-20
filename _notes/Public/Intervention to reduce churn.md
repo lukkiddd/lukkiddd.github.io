@@ -1,5 +1,5 @@
 ---
-title : Intervention to reduce Churn
+title : Intervention to reduce churn
 notetype : feed
 date : 05-02-2023
 ---
