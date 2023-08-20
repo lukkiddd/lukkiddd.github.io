@@ -2,7 +2,6 @@
 title : Click Through Rate
 notetype : feed
 date : 17-01-2022
-tags: #metrics
 ---
 
 
@@ -18,5 +17,10 @@ If we have 5 clicks and 100 impressions, then our CTR would be 5%.
 
 ### Supports
 - [[Google News Personalization scalable online collaborative filtering]]
+	- Increase in CTR by 38% compared between propose method and baseline popularity.
+- [[A Live Comparison of Methods for Personalized Article Recommendation at Forbes]]
+	- Increase in CTR of 37% (Hybrid with Wiki vs popular)
 
 
+
+#recommendation #metrics
