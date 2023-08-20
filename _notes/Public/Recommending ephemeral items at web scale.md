@@ -4,7 +4,7 @@ notetype : feed
 date : 18-01-2022
 ---
 
-### Notes
+
 - Generative Clustering Model
 	- Objective
 		- To maximize the total intra-cluster coherence

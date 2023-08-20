@@ -5,7 +5,7 @@ date : 19-01-2022
 ---
 
 
-### Notes
+
 
 - [[Recommender System - Accuracy or Relevance]]
 	- The recommendation suggested to a user should be relevant because that a user has a **high propensity to purchase the recommended items** and rate them highly.

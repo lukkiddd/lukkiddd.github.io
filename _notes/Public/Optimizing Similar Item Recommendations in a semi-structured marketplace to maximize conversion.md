@@ -6,7 +6,7 @@ date : 18-01-2022
 
 
 
-### Notes
+
 - Recall + Ranking
 	- Recall: Candidate Generation
 		- Coviewed items

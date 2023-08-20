@@ -5,7 +5,7 @@ date : 18-01-2022
 ---
 
 
-### Notes
+
 
 - Bayesian framework
 - The log analysis reveals that the click distributions of individual users are influenced by the local news trend

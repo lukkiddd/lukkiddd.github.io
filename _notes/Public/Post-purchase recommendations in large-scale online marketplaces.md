@@ -5,7 +5,7 @@ date : 18-01-2022
 ---
 
 
-### Notes
+
 - Co-purchase mining approach
 
 ### Results

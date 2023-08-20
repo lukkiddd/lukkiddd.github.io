@@ -5,7 +5,7 @@ date : 19-01-2022
 ---
 
 
-### Notes
+
 - Web-usage mining
 - Focus on efficiency, effectiveness, actionable marketing intelligence
 	- Efficiency

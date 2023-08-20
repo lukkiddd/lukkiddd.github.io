@@ -13,7 +13,7 @@ date : 22-01-2022
 - Users return to recommenders over a while, growing from new to experienced users. If we understand their purpose and intent, we can generate better recommendations
 
 
-### Notes
+
 - Propose new user-centric directions for evaluating recommender systems
 - We reward a travel recommender for recommending places a user has already visited instead of rewarding it for finding new places for the user to visit
 - We review 3 aspects

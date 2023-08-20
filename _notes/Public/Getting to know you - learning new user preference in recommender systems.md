@@ -6,7 +6,7 @@ date : 22-01-2022
 
 
 
-### Notes
+
 
 - Experimental design
 	- **Goal**: Measure the effectiveness of the signup process

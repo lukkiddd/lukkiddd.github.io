@@ -5,7 +5,7 @@ date : 18-01-2022
 ---
 
 
-### Notes
+
 - Goals: Recent and Fresh, Diverse and Relevant
 - 2 Phase
 	- Candidate generations

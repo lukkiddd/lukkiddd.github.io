@@ -6,7 +6,7 @@ date : 22-01-2022
 
 
 
-### Notes
+
 - Accuracy is not enough
 - Introduce intra-list similarity metric to measure diversity which improves user satisfaction
 - Propose topic diversification method to increase diversity
