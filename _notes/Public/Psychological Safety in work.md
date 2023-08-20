@@ -1,5 +1,5 @@
 ---
-title : Psychological Safety
+title : Psychological Safety in work
 notetype : feed
 date : 2023-09-20
 ---
