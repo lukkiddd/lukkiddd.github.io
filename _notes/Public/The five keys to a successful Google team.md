@@ -12,4 +12,4 @@ date : 2023-08-20
 4. **Meaning of work:** Are we working on something that is personally important for each of us?
 5. **Impact of work:** Do we fundamentally believe that the work we’re doing matters?
 
-**Reference**: https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
+**Reference**: [reWork - Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)

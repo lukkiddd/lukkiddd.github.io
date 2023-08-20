@@ -5,7 +5,6 @@ date : 2023-09-20
 ---
 
 
-
 **Manager's Actions**
 - [Foster Psychological Safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/)
 
