@@ -20,3 +20,8 @@ title: Interests
 ##### Search
 
 - [Search](/notes/Search)
+
+
+#### NFTs
+
+- [NFT](/notes/NFT)
