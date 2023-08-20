@@ -5,6 +5,9 @@ title: Interests
 
 ####  2022
 
+##### Management
+- [Management's books](/notes/Management-Books)
+
 ##### Experiments
 - [Trustworthy Online Controlled Experiments](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)
 - [Sample Ratio Mismatch](/notes/Sample-Ratio-Mismatch)
