@@ -1,5 +1,5 @@
 ---
-title : Google News Personalization: Scalable Online Collaborative Filtering
+title : Google News Personalization - Scalable Online Collaborative Filtering
 notetype : feed
 date : 17-01-2022
 tags: #metrics
