@@ -3877,7 +3877,8 @@ a.navbar-item,
 
 .box-feed h4 {
   margin-bottom: 12px;
-  transition: color 0.2s; }
+  transition: color 0.2s; 
+  margin-right: 5rem; }
 
 .box-feed:hover h4 {
   color: var(--link); }
