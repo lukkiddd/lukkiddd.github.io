@@ -237,7 +237,7 @@ button,
 input,
 select,
 textarea {
-  font-family: "IBM Plex Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
+  font-family: "Inter",-apple-system,BlinkMacSystemFont,"San Francisco","Segoe UI",Roboto,"Helvetica Neue",sans-serif; }
 
 code,
 pre {
@@ -247,7 +247,7 @@ pre {
 
 body {
   color: var(--text-main);
-  font-size: 1em;
+  font-size: 0.95rem;
   font-weight: 400;
   line-height: 1.5; }
 
@@ -663,13 +663,13 @@ a.has-text-danger:hover, a.has-text-danger:focus {
   font-weight: 700 !important; }
 
 .is-family-primary {
-  font-family: "IBM Plex Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
+  font-family: "Inter",-apple-system,BlinkMacSystemFont,"San Francisco","Segoe UI",Roboto,"Helvetica Neue",sans-serif !important; }
 
 .is-family-secondary {
-  font-family: "IBM Plex Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
+  font-family: "Inter",-apple-system,BlinkMacSystemFont,"San Francisco","Segoe UI",Roboto,"Helvetica Neue",sans-serif !important; }
 
 .is-family-sans-serif {
-  font-family: "IBM Plex Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
+  font-family: "Inter",-apple-system,BlinkMacSystemFont,"San Francisco","Segoe UI",Roboto,"Helvetica Neue",sans-serif !important; }
 
 .is-family-monospace {
   font-family: monospace !important; }
@@ -977,17 +977,34 @@ a.has-text-danger:hover, a.has-text-danger:focus {
 
 .box-feed {
   background-color: var(--bg-main);
-  border-radius: 8px;
+  border-radius: 0;
   box-shadow: none;
   color: var(--text-main);
   display: block;
-  padding: 1rem; }
+  border-bottom: 1px solid var(--border);
+  padding: 1rem 0 2rem 0; }
 
+.box-feed .note-title {
+  position: relative;
+}
+.box-feed .note-title .date {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: var(--text-sub);
+  font-size: 0.90rem;
+  line-height: 1.5rem;
+}
+.box-feed .content {
+  font-size: 0.95em;
+  color: var(--text-sub);
+}
+/* 
 a.box-feed:hover, a.box-feed:focus {
   box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0 0 1px var(--link); }
 
 a.box-feed:active {
-  box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.2), 0 0 0 1px var(--link); }
+  box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.2), 0 0 0 1px var(--link); } */
 
 .button {
   background-color: var(--bg-main);
@@ -1036,17 +1053,29 @@ a.box-feed:active {
       background-color: var(--bg-sub);
       color: var(--color-bis); }
       .button.button__page-back {
-        background-color: var(--bg-sub);
         color: var(--color-bis);
+        background-color: transparent;
+          border-color: transparent;
+          text-transform: uppercase;
+          font-size: 0.7rem;
+          letter-spacing: 0.1rem;
+          text-decoration: none;
+          padding: 1rem 0;
       }
       @media screen and (min-width: 769px), print {
         .button.button__page-back {
           background-color: transparent;
           border-color: transparent;
+          text-transform: uppercase;
+          font-size: 0.7rem;
+          letter-spacing: 0.1rem;
+          text-decoration: none;
+          padding: 1rem 0;
         }
       }
     .button.is-text:active, .button.is-text.is-active {
-      background-color: #e8e8e8;
+      /* background-color: #e8e8e8; */
+      text-decoration: underline;
       color: var(--color-bis); }
     .button.is-text[disabled],
     fieldset[disabled] .button.is-text {
@@ -1714,6 +1743,10 @@ a.tag:hover {
   text-align: center;
   vertical-align: top; }
 
+  input::placeholder {
+    font-size: 1rem;
+    color: var(--text-sub) !important;
+  }
 .input, .textarea, .select select {
   background-color: var(--bg-main);
   border-color: var(--border);
@@ -1816,7 +1849,9 @@ a.tag:hover {
     border-radius: 2px;
     font-size: 0.8rem; }
   .is-medium.input, .is-medium.textarea {
-    font-size: 1.25rem; }
+    font-size: 1rem;
+    padding: 1.5rem 1rem;
+    background-color: var(--bg-surface);}
   .is-large.input, .is-large.textarea {
     font-size: 1.25rem; }
   .is-fullwidth.input, .is-fullwidth.textarea {
@@ -3837,11 +3872,11 @@ a.navbar-item,
   cursor: pointer;
   transition: box-shadow 0.2s; }
 
-.box-feed:hover {
-  box-shadow: 0px 12px 32px rgba(27, 25, 36, 0.12); }
+/* .box-feed:hover {
+  box-shadow: 0px 12px 32px rgba(27, 25, 36, 0.12); } */
 
 .box-feed h4 {
-  margin-bottom: 4px;
+  margin-bottom: 12px;
   transition: color 0.2s; }
 
 .box-feed:hover h4 {
@@ -3887,15 +3922,16 @@ a.navbar-item,
 @media screen and (min-width: 769px), print {
   .section.is-note .column.is-primary-content,
     .note-page-section {
-      padding: 3rem 8rem; } 
+      padding: 1rem 0; } 
   .note-cards .content {
     width: 88%; }
     }
 
 @media screen and (min-width: 769px), print {
-  .for-back-home {
+  /* .for-back-home {
     position: absolute;
-    left: 0.7rem; } }
+    left: 0.7rem; } 
+  } */
 
 .tag:not(body) {
   padding-left: 1em;
