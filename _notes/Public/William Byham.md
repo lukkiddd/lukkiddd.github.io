@@ -4,6 +4,7 @@ notetype : feed
 date : 2023-08-19
 ---
 
+![william-byham](assets/img/william-byham.png)
 
 Authors of 
 - [[Book - Zapp - The lightning of empowerment]]
