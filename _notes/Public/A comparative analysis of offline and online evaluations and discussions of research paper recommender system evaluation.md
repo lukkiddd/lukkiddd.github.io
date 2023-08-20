@@ -1,5 +1,5 @@
 ---
-title : A comparative analysis of offline and online evaluations and discussions of research paper recommender system evaluation
+title : A Comparative analysis of offline and online evaluations and discussions of research paper recommender system evaluation
 notetype : feed
 date : 18-01-2022
 ---
