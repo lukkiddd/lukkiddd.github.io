@@ -52,6 +52,10 @@ date : 17-01-2022
 
 ---
 
+
+#### Related
+[[Metrics, Engagement, and Personalization at Spotify]]
+
 #### Reference
 
 X. Amatriain and J. Basilico, “Recommender Systems in Industry: A Netflix Case Study,” in _Recommender Systems Handbook_, F. Ricci, L. Rokach, and B. Shapira, Eds. Boston, MA: Springer US, 2015, pp. 385–419. doi: [10.1007/978-1-4899-7637-6_11](https://doi.org/10.1007/978-1-4899-7637-6_11).
