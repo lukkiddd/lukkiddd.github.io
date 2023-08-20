@@ -47,4 +47,4 @@ They run an experiment as followed.
 James Davidson _et al._, “The YouTube video recommendation system,” in _Proceedings of the fourth ACM conference on Recommender systems - RecSys ’10_, Barcelona, Spain, 2010, p. 293. doi: [10.1145/1864708.1864770](https://doi.org/10.1145/1864708.1864770).
 
 
-#recommendation/news 
+#recommendation/videos  #recommendation
