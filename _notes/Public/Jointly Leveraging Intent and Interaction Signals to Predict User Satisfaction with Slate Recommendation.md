@@ -1,5 +1,5 @@
 ---
-title : Jointly Leveragin Intent and Interaction Signals to Predict User Satisfaction with Slate Recommendation
+title : Jointly Leveraging Intent and Interaction Signals to Predict User Satisfaction with Slate Recommendation
 notetype : feed
 date : 19-01-2022
 ---

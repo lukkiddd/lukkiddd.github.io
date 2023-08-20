@@ -24,7 +24,7 @@ date : 18-01-2022
 	2. Imperfection of offline datasets
 		1. Containing only a fraction of all relevant documents
 - Is it possible to identify the situation where offline evaluations have predictive power?
-- Is it problematic, that offline evaluations do not (always) have predictive power?
+- Is it problematic that offline evaluations do not (always) have predictive power?
 
 
 ---

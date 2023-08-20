@@ -9,7 +9,7 @@ date : 19-01-2022
 
 - [[Beyond accuracy - evaluating recommender systems by coverage and serendipity]]
 	- Coverage
-		- Prediction coverage
+		- Prediction Coverage
 		- Catalogue Coverage
 - [[Effective Catalog Size]]
 

@@ -12,11 +12,11 @@ date : 18-01-2022
 3. [Trending Now](https://netflixtechblog.com/whats-trending-on-netflix-f00b4b037f61)
 	- Short-term temporal trends, ranging from a few minutes to perhaps a few days, are potent predictors of videos that our members will watch.
 	- 2 Types
-		1. Those that repeat every several month (or yearly) yet have a short-term effect
-			- Uptick of romanctic video watching during Valentine's day
+		1. Those that repeat every several months (or yearly) yet have a short-term effect
+			- Uptick of romantic video watching during Valentine's day
 		2. One-off, short-term events, for example, a big hurricane with an impending arrival to some densely populated area
 4. [Continue Watching](https://netflixtechblog.com/to-be-continued-helping-you-find-shows-to-continue-watching-on-7c0d8ee4dab6)
-	- Sorts the subset of recently viewed titles based on best estimate
+	- Sorts the subset of recently viewed titles based on the best estimate
 		- Time elapsed since viewing
 		- Point of abandonment (min-program, beginning or end)
 		- Devices used

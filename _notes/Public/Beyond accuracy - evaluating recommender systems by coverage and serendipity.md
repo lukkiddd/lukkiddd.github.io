@@ -11,23 +11,23 @@ date : 18-01-2022
 #### 1. Coverage
 - The coverage of a recommender is a measure of the domain of items over which the system can make recommendations
 - 2 concepts
-	1. The percentage of the items for which the system is able to generate the recommendation (refered as "prediction coverage")
-	2. The percentage of the available items which effectively are ever recommended to a user [4,11] (refered as "catalogue coverage")
+	1. The percentage of the items for which the system is able to generate the recommendation (referred as "prediction coverage")
+	2. The percentage of the available items which effectively are ever recommended to a user [4,11] (referred as "catalog coverage")
 
 
 
 #### 2. Serendipity
-- Serendipity is defined as a measure of the extent to which the recommended items are both attractive and surprising to the users
+- Serendipity is a measure which recommended items are both attractive and surprising to users
 - 2 aspects
 	1. A serendipitous item should be not yet discovered and not be expected by the user
-	2. The item should also be interesting, relevant and useful to the user
+	2. The item should also be interesting, relevant, and useful to the user
 
 
 ##### 2.1 Metrics
 
 ##### 2.1.1 Unexpected
 
-We asume that a primitive prediction model shows high ratability and produces low unexpectedness.
+We assume that a primitive prediction model shows high ratability and produces low unexpectedness.
 
 ```
 Unexpected = RS/PM
@@ -49,9 +49,9 @@ u(RS_i) is a usefulness for the recommendation  if the recommendation in an unex
 
 - Catalog coverage usually decreases as a function of accuracy
 - Not every increase in coverage leads to serendipity
-- Increase in seredipity will lead to higher catalog coverage
-- Increase in accuracy leads to less of serendipity
-- Increasing serendipity might negatively impact accuracy
+- Increase in serendipity will lead to higher catalog coverage
+- Increase in accuracy leads to less serendipity
+- Increasing serendipity might negatively impact the accuracy
 
 ---
 
