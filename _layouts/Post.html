@@ -96,7 +96,14 @@
             {%- if page.content-type == "notes" 
             or page.content-type == "post"  -%}
                 <div class="column is-half">
+                        <div class="block">
+                            <input class="input is-medium" type="text" placeholder="What you're looking for..." id="search-input" autocomplete="off">
+                            <div id="search-results" class="search-results"></div>
+                        </div>
+                        <script type="text/javascript" src="/assets/js/vendor/lunr.min.js"></script>
+                        <script src="/assets/js/Search.js"></script>
                     <main>
+                        
                         <div class="note-page-section">
                             <div class="buttons for-back-home">
                                 {%- if site.preferences.homepage.enabled -%}
@@ -104,7 +111,7 @@
                                 {%- else -%}
                                 <a class="button is-text button__page-back" onclick="window.location.assign('/');">
                                 {%- endif -%}
-                                ← back
+                                ← home
                                     <!-- <span class="icon is-small">
                                         <svg width="12" height="20" viewBox="0 0 12 20" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
@@ -115,7 +122,8 @@
                                     </span> -->
                                 </a>
                             </div>
-                        <h2>{{page.title}}</h2>
+                        <h2 class="center-align-text">{{page.title}}</h2>
+                        <p class="center-align-text color-text-sub">{{page.date | date: '%Y/%m/%d'}}</p>
                         <hr>
                         {%- include Content.html -%}
                         {%- include Backlinks.html -%}

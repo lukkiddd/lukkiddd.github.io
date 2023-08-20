@@ -1548,3 +1548,7 @@ label.margin-toggle:not(.sidenote-number) {
     color: var(--text-sub);
     font-size: 1.2rem;
 }
+
+.color-text-sub{
+    color: var(--text-sub);
+}
