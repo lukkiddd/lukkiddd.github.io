@@ -24,14 +24,18 @@ If we have 3 videos ordered by most-streamed hours as below.
 Then the total streamed hours is 10+6+3 = 19 hours.
 
 p of 1st video is 10/19 = ~0.526
+
 p of 2nd video is 6/19 = ~0.316
+
 p of 3rd video is 3/19 = ~0.158
+
 so on...
 
 From the ECS function above:
 
-ECS(p) = 2 * ( (10/19.7 * 1) + (6/19.7 * 2) + (3/19.7 * 3)) - 1
-ECS(p) = ~2.147
+ECS(p) = 2 * ( (10/19 * 1) + (6/19 * 2) + (3/19 * 3)) - 1
+
+ECS(p) = ~2.263
 
 ### Example from TIVO
 
