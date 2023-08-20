@@ -5,6 +5,7 @@ date : 17-01-2022
 tags: #metrics
 ---
 
+
 ### Problems
 1. Scalability
 2. Item Churn
@@ -17,7 +18,7 @@ Decayed popularity
 
 ### Result
 
-Increase in click by 38% compared between propose method and baseline popularity.
+Increase in CTR by 38% compared between propose method and baseline popularity.
 
 ---
 
