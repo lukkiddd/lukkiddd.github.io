@@ -20,3 +20,4 @@ The **first half** of the book told us about the meaning of [[Psychological Safe
 - Listen with empathy can help
 
 - [Braintrust at Pixar](https://www.fastcompany.com/3027135/inside-the-pixar-braintrust)
+- [[Work Principle from Ray Dalio]]
