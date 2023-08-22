@@ -11,6 +11,7 @@ date : 2023-08-20
 **My review**: 
 
 **Notes**
+- [[VUCA - volatility, uncertainty, complexity, and ambiguity]]
 - [[The five keys to a successful Google team]]
 
 The **first half** of the book told us about the meaning of [[Psychological Safety]], as well as examples of how bad psychological safety will impact the organization's output, until the persons' life.
