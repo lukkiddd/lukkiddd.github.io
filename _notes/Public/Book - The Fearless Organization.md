@@ -22,3 +22,8 @@ The **first half** of the book told us about the meaning of [[Psychological Safe
 
 - [[Brain Trust at Pixar]]
 - [[Work Principle from Ray Dalio]]
+
+
+To read next
+- Checklist manifesto
+- Radical Candor
