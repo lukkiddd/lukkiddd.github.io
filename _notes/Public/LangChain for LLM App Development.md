@@ -9,8 +9,10 @@ The LangChain for LLM Application Development Course, available at https://www.d
 
 **Building Vector Database** :
 - Extracting information from documents to construct a vectors database.
+
 **Query and Similar Document Retrieval** :
 - Employing queries to identify similar documents efficiently.
+
 **Parsing Documents to LLM** :
 - Processing the selected documents through the LLM to generate meaningful responses.
 
@@ -24,18 +26,25 @@ The LangChain for LLM Application Development Course, available at https://www.d
 
 **LLM Model Compatibility** :
 - Compatibility with various LLM models, such as OpenAI.
+
 **Reusable Templates** :
 - Obtaining results based on customizable prompts with reusable templates.
+
 **Result Parsing** :
 - Parsing results into dictionaries or JSON format.
+
 **Memory Module** :
 - Utilizing a Memory module to enable LLMs to remember context, particularly useful for chatbots.
+
 **Chaining Input/Output** :
 - Employing the Chain module to link input/output across different LLM responses, including the router chain for routing specific responses to designated prompts.
+
 **Loader and Q/A Chain** :
 - Creating Question-and-Answer LLMs using the Loader and Q/A chain.
+
 **Evaluation and Testing** :
 - Using LLMs for result evaluation and generating examples for testing purposes.
+
 **Agents Module** :
 - Leveraging the ReAct prompting in the Agents module to enable LLMs to perform various actions.
 
