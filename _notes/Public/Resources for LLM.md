@@ -17,6 +17,7 @@ date : 2023-11-23
 - [ReAct Prompting](https://www.promptingguide.ai/techniques/react)
 - [LLM Agents](https://promptengineering.org/what-are-large-language-model-llm-agents/)
 - [Jailbreak Chat](https://www.jailbreakchat.com/)
+- [LLM Security](https://llmsecurity.net/)
 
 ## Tools/Library
 - [LangChain](https://www.langchain.com/)
