@@ -6,7 +6,7 @@ date: 2023-11-25
 
 
 ## Summary:
-[The LangChain Chat with Your Data course]((https://learn.deeplearning.ai/langchain-chat-with-your-data) provides a step-by-step exploration of [[RAG Essentials]], guiding users through fundamental processes. The course covers loading various document types using methods like website loaders, directory loaders, and YouTube audio loaders,
+[The LangChain Chat with Your Data course](https://learn.deeplearning.ai/langchain-chat-with-your-data) provides a step-by-step exploration of [[RAG Essentials]], guiding users through fundamental processes. The course covers loading various document types using methods like website loaders, directory loaders, and YouTube audio loaders,
 
 
 ### 1. Document Loaders

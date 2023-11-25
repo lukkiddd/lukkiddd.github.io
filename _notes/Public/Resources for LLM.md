@@ -31,4 +31,9 @@ date : 2023-11-23
 - [ChromaDB](https://www.trychroma.com/)
 
 
+---
+## My Notes
+- [[RAG Essentials]]
+
+
 #llm #chatgpt
