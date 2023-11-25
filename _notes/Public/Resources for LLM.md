@@ -15,6 +15,7 @@ date : 2023-11-23
 - [Pattern for LLM](https://eugeneyan.com/writing/llm-patterns)
 - [Open Challenge for LLM Research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
 - [ReAct Prompting](https://www.promptingguide.ai/techniques/react)
+- [LLM Agents](https://promptengineering.org/what-are-large-language-model-llm-agents/)
 
 ## Tools/Library
 - [LangChain](https://www.langchain.com/)
