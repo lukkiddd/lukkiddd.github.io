@@ -35,7 +35,7 @@ date : 2023-11-23
 - [ ] [Generative AI](https://www.coursera.org/learn/generative-ai-with-llms)
 - [x] [[LangChain for LLM App Development]]: [Link](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 - [x] [[LangChain Chat with Your Data]]: [Link](https://www.coursera.org/projects/langchain-chat-with-your-data-project)
-- [x] [Quality and Safety for LLM Applications](https://learn.deeplearning.ai/quality-safety-llm-applications)
+- [x] [[Quality and Safety for LLM Applications]]: [Link](https://learn.deeplearning.ai/quality-safety-llm-applications)
 - [ ] [How Business Thinkers Can Start Building AI Plugins With Semantic Kernel](https://learn.deeplearning.ai/microsoft-semantic-kernel)
 
 ---
