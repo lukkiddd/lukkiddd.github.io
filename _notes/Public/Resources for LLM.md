@@ -17,8 +17,8 @@ date : 2023-11-23
 
 ## Courses
 - Genrerative AI https://www.coursera.org/learn/generative-ai-with-llms
-- [x] [[LangChain for LLM App Development]]: https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/
-- LangChain RAG: https://www.coursera.org/projects/langchain-chat-with-your-data-project
+- [x] [[LangChain for LLM App Development]]: [Link](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+- [x] [[LangChain Chat with Your Data]]: [Link](https://www.coursera.org/projects/langchain-chat-with-your-data-project)
 
 ## Application Example
 - Kapa.ai

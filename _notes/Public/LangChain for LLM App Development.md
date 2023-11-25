@@ -3,6 +3,8 @@ title: LangChain for LLM App Development
 notetype: feed
 date: 2023-11-23
 ---
+
+[[RAG Essentials]]
 ## Summary:
 
 The LangChain for LLM Application Development Course, available at https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/, focuses on utilizing the LangChain Python/TypeScript framework to streamline the creation of Language Model (LLM) applications. The course highlights key processes specific to Retrieval-Augmented Generation (RAG), emphasizing four crucial aspects:
@@ -15,12 +17,6 @@ The LangChain for LLM Application Development Course, available at https://www.d
 
 **Parsing Documents to LLM** :
 - Processing the selected documents through the LLM to generate meaningful responses.
-
-**RAG Essentials** :
-- Creating high-quality embeddings.
-- Fast, cost-effective, and relevant identification of similar embeddings.
-- Efficiently splitting and chunking multiple documents for LLM input.
-- Leveraging the LLM itself for response generation.
 
 ### The course introduce you a LangChain framework with
 
@@ -50,5 +46,4 @@ The LangChain for LLM Application Development Course, available at https://www.d
 
 In essence, the course provides a comprehensive overview of the LangChain framework, empowering developers to rapidly create and enhance LLM applications with diverse functionalities.
 
-
-#llm #chatgpt
+#llm #chatgpt #langchain #deeplearning-ai
