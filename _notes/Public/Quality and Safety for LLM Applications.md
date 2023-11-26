@@ -4,19 +4,19 @@ notetype: feed
 date: 2023-11-25
 ---
 
-## Summary
-
-### WhyLogs
 [Whylogs](https://github.com/whylabs/whylogs) help logs the data, as well as profiling and monitoring the data issue with LLM.
 
-### Hallucination
+In the note, we will cover
+1. Hallicination
+2. Data Leakage
+### 1. Hallucination
 - Irrelevant Response or Inaccurate information
 
 Beside below information, we can use [langkit hallucination - WhyLabs](https://github.com/whylabs/langkit/blob/main/langkit/docs/modules.md#hallucination) to detect the hallucination
 
-#### Prompt-response relevance
+#### 1.1 Prompt-response relevance
 
-**Measuring [BLEU Score](https://huggingface.co/spaces/evaluate-metric/bleu/blob/main/README.md) - Text Similarity Scoring**
+**1.1.1 Measuring [BLEU Score](https://huggingface.co/spaces/evaluate-metric/bleu/blob/main/README.md) - Text Similarity Scoring**
 ```python
 @register_dataset_udf(["prompt", "response"], 
                       "response.bleu_score_to_prompt")
@@ -33,7 +33,7 @@ def bleu_score(text):
   return scores
 ```
 
-**Measuring [BERT Score](https://huggingface.co/spaces/evaluate-metric/bertscore) - Semantic Similarity Scoring**
+**1.1.2 Measuring [BERT Score](https://huggingface.co/spaces/evaluate-metric/bertscore) - Semantic Similarity Scoring**
 ```python
 @register_dataset_udf(["prompt", "response"], "response.bert_score_to_prompt")
 def bert_score(text):
@@ -43,9 +43,10 @@ def bert_score(text):
       model_type="distilbert-base-uncased"
     )["f1"]
 ```
-#### Response self-similarity
+#### 1.2 Response self-similarity
 
-**Sentence Embedding Cosine Distance**
+
+**1.2.1 Sentence Embedding Cosine Distance**
 
 ```python
 @register_dataset_udf(["response", "response2", "response3"], 
@@ -65,7 +66,7 @@ def sentence_embedding_selfsimilarity(text):
   return (cos_sim_with_response2 + cos_sim_with_response3) / 2
 ```
 
-**LLM self-evaluation**
+**1.2.2 LLM self-evaluation**
 
 ```python
 def prompt_single_llm_selfsimilarity(dataset, index):
@@ -85,9 +86,9 @@ def prompt_single_llm_selfsimilarity(dataset, index):
         }]
     )
 ```
-### Data Leakage
+### 2. Data Leakage
 
-**Detect Patterns**
+**2.1 Detect Patterns**
 We can do it using regex using [langkit - WhyLabs](https://github.com/whylabs/langkit/blob/main/langkit/docs/modules.md#regexes)
 
 ```python
@@ -101,7 +102,7 @@ helpers.visualize_langkit_metric(
 ```
 
 
-**Entity Recognition**
+**2.2 Entity Recognition**
 
 We can detect named entity using [`span_marker`](https://github.com/tomaarsen/SpanMarkerNER)
 
@@ -125,7 +126,7 @@ def entity_leakage(text):
         )
     return entity_counts
 ```
-**Toxicity**
+**2.3 Toxicity**
 
 Using huggingface transformer pipeline with toxicity model
 
@@ -140,13 +141,13 @@ def implicit_toxicity(text):
             toxigen_hatebert(text["prompt"].to_list())]
 ```
 
-### Refusals and Prompt Injections
+### 3. Refusals and Prompt Injections
 
-#### Refusals 
+#### 3.1 Refusals 
 
 Refusals is when we don't want our LLM to response to inappropriate query, or prevent any harmful query to be perform.
 
-**String Matching**
+**3.1.1 String Matching**
 
 ```python
 @register_dataset_udf(["response"],"response.refusal_match")
@@ -155,7 +156,7 @@ def refusal_match(text):
                                          case = False)
 ```
 
-**Sentiment detection**
+**3.1.2 Sentiment detection**
 
 ```python
 from langkit import sentiment
@@ -166,18 +167,18 @@ helpers.visualize_langkit_metric(
 )
 ```
 
-#### Prompt Injections: Jailbreaks
+#### 3.2 Prompt Injections: Jailbreaks
 
 Be aware of [Jailbreak Chat](https://www.jailbreakchat.com/)
 
-**Text length**
+**3.2.1 Text length**
 ```python
 @register_dataset_udf(["prompt"],"prompt.text_length")
 def text_length(text):
     return text["prompt"].str.len()
 ```
 
-**Injection similarity**
+**3.2.2 Injection similarity**
 
 Using [langkit themes](https://github.com/whylabs/langkit/blob/main/langkit/themes.json)
 ```python
@@ -193,7 +194,7 @@ injections_json = {
 themes.init(theme_json=json.dumps(injections_json))
 ```
 
-**Langkit injection**
+**3.2.3 Langkit injection**
 
 Read more [langkit injections](https://github.com/whylabs/langkit/blob/main/langkit/docs/modules.md#injections)
 ```python
@@ -205,8 +206,8 @@ helpers.visualize_langkit_metric(
     "injection"
 )
 ```
-### Passive and active monitoring
-#### Passive monitoring
+### 4. Passive and active monitoring
+#### 4.1 Passive monitoring
 Logging the data first, and later investigate.
 ```python
 llm_logger = why.logger(
@@ -216,7 +217,7 @@ llm_logger = why.logger(
 	schema = udf_schema()
 )
 ```
-#### Active monitoring
+#### 4.2 Active monitoring
 Logging the data, validate and create the guardrail, then filter the response before reply to the users
 
 ```python
@@ -257,3 +258,6 @@ while True:
         user_reply_failure(request)
         break
 ```
+
+
+#llm #chatgpt #whylabs #deeplearning-ai #whylogs #langkit
