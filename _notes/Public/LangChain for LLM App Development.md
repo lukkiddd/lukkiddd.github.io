@@ -7,7 +7,7 @@ date: 2023-11-23
 [[RAG Essentials]]
 ## Summary:
 
-The LangChain for LLM Application Development Course, available at https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/, focuses on utilizing the LangChain Python/TypeScript framework to streamline the creation of Language Model (LLM) applications. The course highlights key processes specific to Retrieval-Augmented Generation (RAG), emphasizing four crucial aspects:
+The [LangChain for LLM Application Development Course](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/), focuses on utilizing the LangChain Python/TypeScript framework to streamline the creation of Language Model (LLM) applications. The course highlights key processes specific to Retrieval-Augmented Generation (RAG), emphasizing four crucial aspects:
 
 **Building Vector Database** :
 - Extracting information from documents to construct a vectors database.
