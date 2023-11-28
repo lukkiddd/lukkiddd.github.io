@@ -19,7 +19,7 @@ date : 2023-11-23
 - [Pattern for LLM](https://eugeneyan.com/writing/llm-patterns)
 - [Open Challenge for LLM Research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
 - [LLM Agents](https://promptengineering.org/what-are-large-language-model-llm-agents/)
-
+- [ACL 2023: Retrieval-based LM](https://acl2023-retrieval-lm.github.io)
 
 ### Prompting
 - [ReAct Prompting](https://www.promptingguide.ai/techniques/react)
@@ -31,6 +31,9 @@ date : 2023-11-23
 
 ## Tools/Library
 - [LangChain](https://www.langchain.com/)
+- [LangSmith](https://www.langchain.com/langsmith)
+- [LangFuse](https://langfuse.com/)
+- [Fiddler](https://www.fiddler.ai/)
 - [Semantic Kernel from Microsoft](https://github.com/microsoft/semantic-kernel)
 - [Meta LLaMa](https://ai.meta.com/llama/)
 - [OpenThaiGPT](https://openthaigpt.aieat.or.th/)
@@ -52,6 +55,8 @@ date : 2023-11-23
 - [ ] Vector Databases: from Embeddings to Applications: [Link](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 - [ ] Building Generative AI Applications with Gradio: [Link](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
 - [ ] [How Business Thinkers Can Start Building AI Plugins With Semantic Kernel](https://learn.deeplearning.ai/microsoft-semantic-kernel)
+- [ ] [Databricks: Large Language Models: Application through Production](https://www.edx.org/course/large-language-models-application-through-production)
+- [ ] [Databricks: Large Language Models: Foundation Models from the Ground Up](https://www.edx.org/course/large-language-models-foundation-models-from-the-ground-up)
 
 ---
 ## My Notes
