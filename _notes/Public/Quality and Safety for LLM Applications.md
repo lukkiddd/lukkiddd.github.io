@@ -7,8 +7,11 @@ date: 2023-11-25
 [Whylogs](https://github.com/whylabs/whylogs) help logs the data, as well as profiling and monitoring the data issue with LLM.
 
 In the note, we will cover
-1. Hallicination
+1. Hallucination
 2. Data Leakage
+3. Refusals and Prompt Injections
+4. Passive and active monitoring
+
 ### 1. Hallucination
 - Irrelevant Response or Inaccurate information
 
