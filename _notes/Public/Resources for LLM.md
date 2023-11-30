@@ -17,6 +17,7 @@ date : 2023-11-23
 
 ## Resources
 - [x] [LLM application full architecture](https://a16z.com/emerging-architectures-for-llm-applications/)
+- [ ] [Challenges and Apllications of Large Language Models](https://arxiv.org/abs/2307.10169)
 - [ ] [LLMOps - Databrick](https://www.databricks.com/glossary/llmops)
 - [x] [Enterprise LLM Challenges and how to overcome them - Snorkel](https://snorkel.ai/enterprise-llm-challenges-and-how-to-overcome-them/)
 - [ ] [RAG vs Finetuning](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7) by [[Heiko Hotz]]
