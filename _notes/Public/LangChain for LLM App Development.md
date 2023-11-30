@@ -4,7 +4,6 @@ notetype: feed
 date: 2023-11-23
 ---
 
-[[RAG Essentials]]
 ## Summary:
 
 The [LangChain for LLM Application Development Course](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/), focuses on utilizing the LangChain Python/TypeScript framework to streamline the creation of Language Model (LLM) applications. The course highlights key processes specific to Retrieval-Augmented Generation (RAG), emphasizing four crucial aspects:
@@ -254,9 +253,12 @@ overall_chain = SequentialChain(
 
 overall_chain(review)
 ```
+
 and also RouterChain
 
+
 **Loader and Q/A Chain** :
+
 - Creating Question-and-Answer LLMs using the Loader and Q/A chain.
 
 ```python
@@ -298,7 +300,10 @@ response = index.query(query, llm=llm)
 **Evaluation and Testing** :
 - Using LLMs for result evaluation and generating examples for testing purposes. -- This seems to be the same technique as use in why labs which mentioned in [[Quality and Safety for LLM Applications]]
 
+
 > [Evaluation Prompt](https://github.com/langchain-ai/langchain/blob/master/libs/langchain/langchain/evaluation/qa/eval_prompt.py)
+
+
 ```python
 from langchain.evaluation.qa import QAGenerateChain
 
@@ -342,12 +347,17 @@ for i, eg in enumerate(examples):
     print()
 ```
 
+
 **Agents Module** :
 - Leveraging the ReAct prompting in the Agents module to enable LLMs to perform various actions.
+
+
 
 > - [Wikipedia tool](https://github.com/langchain-ai/langchain/blob/master/libs/langchain/langchain/tools/wikipedia/tool.py)
 > - [LLM Math](https://github.com/langchain-ai/langchain/blob/master/libs/langchain/langchain/chains/llm_math/prompt.py)
 > - [PythonREPLTool](https://github.com/langchain-ai/langchain/blob/master/libs/experimental/langchain_experimental/tools/python/tool.py)
+
+
 ```python
 from langchain.agents.agent_toolkits import create_python_agent
 from langchain.agents import load_tools, initialize_agent
@@ -376,6 +386,7 @@ result = agent(question)
 ```
 
 
+
 ```python
 ## Python Agent
 agent = create_python_agent(
@@ -395,6 +406,7 @@ agent.run(f"""Sort these customers by \
 last name and then first name \
 and print the output: {customer_list}""") 
 ```
+
 
 ```python
 ## Create your own tool
@@ -423,6 +435,7 @@ try:
 except: 
     print("exception on external access")
 ```
+
 In essence, the course provides a comprehensive overview of the LangChain framework, empowering developers to rapidly create and enhance LLM applications with diverse functionalities.
 
 #llm #chatgpt #langchain #deeplearning-ai
