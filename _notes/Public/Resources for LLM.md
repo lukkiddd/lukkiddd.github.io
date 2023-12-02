@@ -17,7 +17,7 @@ date : 2023-11-23
 
 ## Resources
 - [x] [LLM application full architecture](https://a16z.com/emerging-architectures-for-llm-applications/)
-- [ ] [Challenges and Apllications of Large Language Models](https://arxiv.org/abs/2307.10169)
+- [ ] [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
 - [ ] [LLMOps - Databrick](https://www.databricks.com/glossary/llmops)
 - [x] [Enterprise LLM Challenges and how to overcome them - Snorkel](https://snorkel.ai/enterprise-llm-challenges-and-how-to-overcome-them/)
 - [ ] [RAG vs Finetuning](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7) by [[Heiko Hotz]]
@@ -57,8 +57,8 @@ date : 2023-11-23
 - [x] [[Functions, tools, and Agents with LangChain]]: [Link](https://learn.deeplearning.ai/functions-tools-agents-langchain)
 - [x] [[ChatGPT Prompt Engineering for Developers]]: [Link](https://learn.deeplearning.ai/chatgpt-prompt-eng)
 - [x] [[Quality and Safety for LLM Applications]]: [Link](https://learn.deeplearning.ai/quality-safety-llm-applications)
-- [ ] Finetuning Large Language Models: [Link](https://learn.deeplearning.ai/finetuning-large-language-models)
-- [ ] Building and Evaluating Advanced RAG: [Link](https://learn.deeplearning.ai/building-evaluating-advanced-rag)
+- [x] Finetuning Large Language Models: [Link](https://learn.deeplearning.ai/finetuning-large-language-models)
+- [x] [[Building and Evaluating Advanced RAG]]: [Link](https://learn.deeplearning.ai/building-evaluating-advanced-rag)
 - [ ] Vector Databases: from Embeddings to Applications: [Link](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 - [ ] Building Generative AI Applications with Gradio: [Link](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
 - [ ] [How Business Thinkers Can Start Building AI Plugins With Semantic Kernel](https://learn.deeplearning.ai/microsoft-semantic-kernel)
