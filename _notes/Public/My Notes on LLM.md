@@ -57,12 +57,19 @@ LLM - is Large Language Model
 				- Caching?
 		- Vector Store (RAG)
 			- Vector Store is computationally expensive when large vector are consider, due to approach of retrieving
+	- Document Structure (PDF)
+
+	- Off the shelf Embedding model cannot retrieve the right information
+		- Solution
+			- Extract metadata together with the information (e.g., entity, title, topic, headers, tables)
+			- Fine-tune embedding model
+			- Retrieving information by leveraging metadata
 	- Hallucinations
 		- Good Prompting
 			- Precise with example
 			- Give time for the model to think
 		- RAG - Adding context
-		- Pre-train model
+		- Fine-tuned LLM
 	- Security
 		- Prompt Injection
 		- Solution
