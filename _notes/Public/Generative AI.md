@@ -9,3 +9,4 @@ date: 2023-12-05
 - Language
 	- [[Resources for Large Language Model]]
 - Speech
+	- To explore
