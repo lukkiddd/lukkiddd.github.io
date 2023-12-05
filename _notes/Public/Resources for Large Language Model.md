@@ -1,8 +1,9 @@
 ---
-title : Resources for LLM
-notetype : feed
-date : 2023-11-23
+title: Resources for Large Language Model
+notetype: feed
+date: 2023-11-23
 ---
+
 ## Top Tech News
 - [Amazon Q](https://aws.amazon.com/th/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/)
 - [Google Vertex Generative AI Studio](https://www.youtube.com/watch?v=-7nf5EJ2Fsc&ab_channel=GoogleCloudTech)
@@ -14,6 +15,8 @@ date : 2023-11-23
 - [mendable.ai](https://www.mendable.ai/)
 - [FinSight Financial report analyzer](https://blog.llamaindex.ai/how-i-built-the-streamlit-llm-hackathon-winning-app-finsight-using-llamaindex-9dcf6c46d7a0)
 - [MosaicML](https://www.mosaicml.com/customer-stories)
+- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 
 ## Resources
 - [x] [LLM application full architecture](https://a16z.com/emerging-architectures-for-llm-applications/)
@@ -49,6 +52,7 @@ date : 2023-11-23
 ## Vector Databases
 - [Pinecone](https://www.pinecone.io/learn/vector-database)
 - [ChromaDB](https://www.trychroma.com/)
+- [Weaviate](https://weaviate.io/)
 
 ## Courses
 - [ ] [Generative AI](https://www.coursera.org/learn/generative-ai-with-llms)
@@ -59,7 +63,8 @@ date : 2023-11-23
 - [x] [[Quality and Safety for LLM Applications]]: [Link](https://learn.deeplearning.ai/quality-safety-llm-applications)
 - [x] Finetuning Large Language Models: [Link](https://learn.deeplearning.ai/finetuning-large-language-models)
 - [x] [[Building and Evaluating Advanced RAG]]: [Link](https://learn.deeplearning.ai/building-evaluating-advanced-rag)
-- [ ] Vector Databases: from Embeddings to Applications: [Link](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
+- [x] Vector Databases: from Embeddings to Applications: [Link](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
+	- [ ] SentenceTransformer
 - [ ] Building Generative AI Applications with Gradio: [Link](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
 - [ ] [How Business Thinkers Can Start Building AI Plugins With Semantic Kernel](https://learn.deeplearning.ai/microsoft-semantic-kernel)
 - [ ] [Databricks: Large Language Models: Application through Production](https://www.edx.org/course/large-language-models-application-through-production)
@@ -68,6 +73,7 @@ date : 2023-11-23
 ---
 ## My Notes
 - [[RAG Essentials]]
+- [[My Notes on LLM]]
 
 
 #llm #chatgpt

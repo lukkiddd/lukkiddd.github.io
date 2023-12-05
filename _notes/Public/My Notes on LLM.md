@@ -1,0 +1,70 @@
+---
+title: My Notes on LLM
+notetype: feed
+date: 2023-12-05
+---
+
+LLM - is Large Language Model
+- Trying to predict next token or words
+- History
+	- DNN
+	- LSTM
+	- Attention
+	- Transformer
+	- GPT/PaLM/etc.
+	- However [any model lead to the same results, the only difference is dataset](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
+- How to create it
+	- First, we can use out-of-the-box pretrained model such as from google (vertex ai), or chatgpt, or any other opensources model (from hugging face)
+	- If you would like to make it better
+		- Start with prompting technique -> [[ChatGPT Prompt Engineering for Developers | prompting technique]]
+	- need to make it better?
+		- Give it context, using RAG
+			- To improve RAG you can
+				- Use a good embedding model or trained yourself
+				- Choose a way to split text for embedding
+				- Select the vector store
+				- Select the algorithm to retrieve information (HNSW?)
+				- Prepare for prompting
+				- Send to LLM
+					- If LLM has issue with token limitations?
+						- Try different chunking type (map-reduce, etc.)
+	- need to make it even more better?
+		- Try pre-training
+		- How to prepare data?
+	- how to create chatbot?
+		- You need to understand memory
+			- Simple memory buffer
+			- Compressed memory
+	- how to evaluate?
+		- Metrics to evaluate
+			- Classification
+				- Accuracy
+			- LLM
+				- Hallucinations (BERT, BLEU)
+		- Use LLM to evaluate
+		- Tools for evaluation/Monitoring
+			- TruEra?
+			- Weight and Bias
+			- WhyLogs
+- Challenges?
+	- High Cost
+		- Models
+			- Out of the box API is expensive, especially multiple calls
+			- Local model is slow or expensive for hardware (GPU), and performance may not good enough
+			- Solution
+				- Run local model, pretrained on your dataset
+				- Use different model for different tasks
+				- Caching?
+		- Vector Store (RAG)
+			- Vector Store is computationally expensive when large vector are consider, due to approach of retrieving
+	- Hallucinations
+		- Good Prompting
+			- Precise with example
+			- Give time for the model to think
+		- RAG - Adding context
+		- Pre-train model
+	- Security
+		- Prompt Injection
+		- Solution
+			- Guardrails
+			- Monitoring
