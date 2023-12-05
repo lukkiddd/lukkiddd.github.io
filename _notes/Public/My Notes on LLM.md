@@ -16,7 +16,7 @@ LLM - is Large Language Model
 - How to create it
 	- First, we can use out-of-the-box pretrained model such as from google (vertex ai), or chatgpt, or any other opensources model (from hugging face)
 	- If you would like to make it better
-		- Start with prompting technique -> [[ChatGPT Prompt Engineering for Developers | prompting technique]]
+		- Start with [prompting technique](notes/ChatGPT-Prompt-Engineering-for-Developers)
 	- need to make it better?
 		- Give it context, using RAG
 			- To improve RAG you can
