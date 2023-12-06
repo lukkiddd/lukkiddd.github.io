@@ -21,15 +21,17 @@ date: 2023-11-23
 
 ## Resources
 - [x] [LLM application full architecture](https://a16z.com/emerging-architectures-for-llm-applications/)
-- [ ] [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
-- [ ] [LLMOps - Databrick](https://www.databricks.com/glossary/llmops)
 - [x] [Enterprise LLM Challenges and how to overcome them - Snorkel](https://snorkel.ai/enterprise-llm-challenges-and-how-to-overcome-them/)
-- [ ] [RAG vs Finetuning](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7) by [[Heiko Hotz]]
 - [x] [Retrieval augmented generation: Keeping LLMs relevant and current](https://stackoverflow.blog/2023/10/18/retrieval-augmented-generation-keeping-llms-relevant-and-current)
-- [ ] [Pattern for LLM](https://eugeneyan.com/writing/llm-patterns)
 - [x] [Open Challenge for LLM Research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
 - [x] [What Are Large Language Model (LLM) Agents and Autonomous Agents](https://promptengineering.org/what-are-large-language-model-llm-agents/)
+- [x] [A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI)
+- [ ] [Pattern for LLM](https://eugeneyan.com/writing/llm-patterns)
+- [ ] [RAG vs Finetuning](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7) by [[Heiko Hotz]]
 - [ ] [ACL 2023: Retrieval-based LM](https://acl2023-retrieval-lm.github.io)
+- [ ] [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
+- [ ] [LLMOps - Databrick](https://www.databricks.com/glossary/llmops)
+
 
 ### Prompting
 - [x] [ReAct Prompting](https://www.promptingguide.ai/techniques/react)
