@@ -26,15 +26,22 @@ date: 2023-11-23
 - [x] [Open Challenge for LLM Research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
 - [x] [What Are Large Language Model (LLM) Agents and Autonomous Agents](https://promptengineering.org/what-are-large-language-model-llm-agents/)
 - [x] [A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI)
-- [ ] [Pattern for LLM](https://eugeneyan.com/writing/llm-patterns)
+- [x] [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c)
+- [x] [Pattern for LLM](https://eugeneyan.com/writing/llm-patterns)
+- [ ] [A Guide on 12 Tuning Strategies for Production-Ready RAG Applications](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439)
 - [ ] [RAG vs Finetuning](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7) by [[Heiko Hotz]]
 - [ ] [ACL 2023: Retrieval-based LM](https://acl2023-retrieval-lm.github.io)
 - [ ] [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
 - [ ] [LLMOps - Databrick](https://www.databricks.com/glossary/llmops)
+- [x] [Don't Build AI Products The Way Everyone Else Is Doing It - Builder.io](https://www.youtube.com/watch?v=bRFLE9qi3t8)
+- [ ] [Cohere Reranking](https://docs.cohere.com/docs/reranking)
+- [ ] [HyDE](https://boston.lti.cs.cmu.edu/luyug/HyDE/HyDE.pdf)
 
 
 ### Prompting
 - [x] [ReAct Prompting](https://www.promptingguide.ai/techniques/react)
+- [x] [Long context prompting for Claude 2.1](https://www.anthropic.com/index/claude-2-1-prompting?)
+- [x] [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172.pdf)
 
 ### Security
 - [Jailbreak Chat](https://www.jailbreakchat.com/)
@@ -51,6 +58,9 @@ date: 2023-11-23
 - [LlmaIndex](https://www.llamaindex.ai/)
 - [WhyLogs](https://github.com/whylabs/whylogs)
 - [Span Markers](https://github.com/tomaarsen/SpanMarkerNER)
+- [Ragas](https://github.com/explodinggradients/ragas)
+- [GPTCache](https://github.com/zilliztech/GPTCache)
+- [Rivert - Open Source AI agent environment](https://rivet.ironcladapp.com/)
 
 ## Vector Databases
 - [Pinecone](https://www.pinecone.io/learn/vector-database)
