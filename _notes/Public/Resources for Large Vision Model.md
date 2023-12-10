@@ -1,11 +1,14 @@
 ---
-title: Resource for Large Vision Model
+title: Resources for Large Vision Model
 notetype: feed
 date: 2023-12-05
 ---
 
 ## Top Tech News
 - [LandingAI - Introducing Domain-Specific Large Vision Models](https://landing.ai/blog/introducing-domain-specific-large-vision-models/)
+
+## Example
+- [Hey Gen - AI Video Generator](https://www.heygen.com/)
 
 ## Papers
 - [Stable Diffusion XL](https://arxiv.org/abs/2307.01952)

@@ -17,6 +17,7 @@ date: 2023-11-23
 - [MosaicML](https://www.mosaicml.com/customer-stories)
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+- [Opus.Pro - AI Video Clipping Tool](https://www.opus.pro/)
 - Using LLM to create prototype of ML tasks (e.g., text classification, text extraction, or even generate labelling data) - From Snorkel AI webinar
 
 ## Resources
