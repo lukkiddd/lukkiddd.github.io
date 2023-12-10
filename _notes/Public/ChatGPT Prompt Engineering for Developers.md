@@ -6,7 +6,7 @@ date: 2023-11-30
 
 This is a cool course, which help you understand the tips, tactics to write a better prompt. Check it out [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng)
 
-## Prompting Principles[¶](https://s172-31-9-39p41461.lab-aws-production.deeplearning.ai/notebooks/l2-guidelines.ipynb#Prompting-Principles)
+## Prompting Principles
 
 ### Principle 1: Write clear and specific instructions
 
