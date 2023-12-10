@@ -1168,6 +1168,10 @@ a.box-feed:active {
 .content li + li {
   margin-top: 0.25em; }
 
+.content p, h1, h2, h3, h4, h5, h6 {
+    margin-top: 2em;
+}
+
 .content p:not(:last-child),
 .content dl:not(:last-child),
 .content ol:not(:last-child),
