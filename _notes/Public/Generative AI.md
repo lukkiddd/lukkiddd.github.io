@@ -7,6 +7,6 @@ date: 2023-12-05
 - Vision
 	- [[Resources for Large Vision Model]]
 - Language
-	- [[Resources for Large Language Model]]
+	- [[LLM]]
 - Speech
 	- To explore
