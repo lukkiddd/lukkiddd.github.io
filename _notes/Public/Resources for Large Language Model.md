@@ -84,7 +84,7 @@ After some learnings, I have tried to summarise my understanding into different 
 - [x] [[Building and Evaluating Advanced RAG]]: [Link](https://learn.deeplearning.ai/building-evaluating-advanced-rag)
 - [x] Vector Databases: from Embeddings to Applications: [Link](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 	- [ ] SentenceTransformer
-- [ ] Building Generative AI Applications with Gradio: [Link](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
+- [x] Building Generative AI Applications with Gradio: [Link](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
 - [ ] [How Business Thinkers Can Start Building AI Plugins With Semantic Kernel](https://learn.deeplearning.ai/microsoft-semantic-kernel)
 - [ ] [Databricks: Large Language Models: Application through Production](https://www.edx.org/course/large-language-models-application-through-production)
 - [ ] [Databricks: Large Language Models: Foundation Models from the Ground Up](https://www.edx.org/course/large-language-models-foundation-models-from-the-ground-up)
