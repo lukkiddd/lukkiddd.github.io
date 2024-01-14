@@ -46,11 +46,12 @@ After some learnings, I have tried to summarise my understanding into different 
 **Research Paper**
 - [x] [[A Study on Robustness and Reliability of Large Language Model Code Generation]]
 
-
 ### Prompting
 - [x] [ReAct Prompting](https://www.promptingguide.ai/techniques/react)
 - [x] [Long context prompting for Claude 2.1](https://www.anthropic.com/index/claude-2-1-prompting?)
 - [x] [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172.pdf)
+- [ ] [PAL - Program-Aided Language Models](Chain-of-Table Evolving Tables in the Reasoning Chain forTable Understanding)
+- [x] [[Chain-of-Table Evolving Tables in the Reasoning Chain forTable Understanding]]
 
 ### Security
 - [Jailbreak Chat](https://www.jailbreakchat.com/)
