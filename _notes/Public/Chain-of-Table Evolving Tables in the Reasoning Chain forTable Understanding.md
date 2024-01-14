@@ -3,7 +3,9 @@ title: Chain-of-Table Evolving Tables in the Reasoning Chain forTable Understand
 notetype: feed
 date: 2024-01-14
 ---
+**Reference**: [https://arxiv.org/pdf/2401.04398.pdf](https://arxiv.org/pdf/2401.04398.pdf)
 
+### Summary
 - Working with table is hard
 - Generic Reasoning, won't work, mostly due to difficulty in extractions
 - [Program-aided Reasoning](https://www.promptingguide.ai/techniques/pal), won't work, due to format of the data
