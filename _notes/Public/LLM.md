@@ -96,4 +96,4 @@ Start by reading [Emerging Architectures for LLM Application](https://a16z.com/e
 	- [ChromaDB](https://www.trychroma.com/)
 	- [Weaviate](https://weaviate.io/)
 - [What Are Large Language Model (LLM) Agents and Autonomous Agents](https://promptengineering.org/what-are-large-language-model-llm-agents/)
-- [Generative AI](https://www.coursera.org/learn/generative-ai-with-llms)
+- [Generative AI](https://www.coursera.org/learn/generative-ai-with-llms)✍️

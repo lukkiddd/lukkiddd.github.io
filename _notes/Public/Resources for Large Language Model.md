@@ -43,6 +43,9 @@ After some learnings, I have tried to summarise my understanding into different 
 - [ ] [Cohere Reranking](https://docs.cohere.com/docs/reranking)
 - [ ] [HyDE](https://boston.lti.cs.cmu.edu/luyug/HyDE/HyDE.pdf)
 
+**Research Paper**
+- [x] [[A Study on Robustness and Reliability of Large Language Model Code Generation]]
+
 
 ### Prompting
 - [x] [ReAct Prompting](https://www.promptingguide.ai/techniques/react)
