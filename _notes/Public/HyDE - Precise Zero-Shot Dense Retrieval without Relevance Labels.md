@@ -14,6 +14,13 @@ date: 2024-01-22
 ![hyde](/assets/img/hyde.png)
 
 
+### Based on the example from llama-index
+
+**Reference**: https://github.com/run-llama/llama_index/blob/main/docs/examples/query_transformations/HyDEQueryTransformDemo.ipynb
+
+#### Failure cases
+- HyDE may mislead when query can be mis-interpreted without context.
+- HyDE may bias open-ended queries
 
 
 Reference: https://boston.lti.cs.cmu.edu/luyug/HyDE/HyDE.pdf
