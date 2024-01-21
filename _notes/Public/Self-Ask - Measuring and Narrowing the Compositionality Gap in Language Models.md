@@ -1,5 +1,5 @@
 ---
-title: Measuring and Narrowing the Compositionality Gap in Language Models
+title: Self-Ask - Measuring and Narrowing the Compositionality Gap in Language Models
 notetype: feed
 date: 2024-01-21
 ---
