@@ -5,16 +5,17 @@ date: 2024-01-21
 ---
 
 ### RAG system aim to
-1) Reduce the problem of hallucinated responses from LLMs
-2) Link sources/references to generated responses
-3) Remove the need for annotating documents with meta-data.
+1. Reduce the problem of hallucinated responses from LLMs
+2. Link sources/references to generated responses
+3. Remove the need for annotating documents with meta-data.
 
 ### Takeaway
-1) Validation of a RAG system is only feasible during operation
-2) The robustness of a RAG system evolves rather than designed in at the start.
+1. Validation of a RAG system is only feasible during operation
+2. The robustness of a RAG system evolves rather than designed in at the start.
 
 
 ###  Index process
+
 - If the chunks are too small certain questions cannot be answered, if the chunks are too long then the answers include generated noise.
 
 
@@ -47,5 +48,7 @@ date: 2024-01-21
 There are 2 ways of chunking
 - Heuristics based (using punctuation, end of paragraph, etc.)
 - Semantic chunking (using the semantics in the text to inform start-end of a chunk)
-
 Embedding a multimedia and multimodal chunks such as table, figures, formulas may needed
+
+
+**Reference**: [https://arxiv.org/pdf/2401.05856.pdf](https://arxiv.org/pdf/2401.05856.pdf?fbclid=IwAR09rY29fZgAZR01Bj2BPNZbiBzjpWBPihGPhKNdS4g1gfsfalWbWI3Q0yQ)
