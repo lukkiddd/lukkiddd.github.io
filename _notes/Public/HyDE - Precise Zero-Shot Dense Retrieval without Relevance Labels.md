@@ -1,7 +1,7 @@
 ---
 title: HyDE - Precise Zero-Shot Dense Retrieval without Relevance Labels
 notetype: feed
-date: 2024-01-21
+date: 2024-01-22
 ---
 ### Hypothetical Document Embeddings (HyDE)
 
