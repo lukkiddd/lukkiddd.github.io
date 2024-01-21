@@ -22,5 +22,7 @@ You may interested
 - [Single-Step Query Decomposition - llmaindex](https://docs.llamaindex.ai/en/stable/optimizing/advanced_retrieval/query_transformations.html#single-step-query-decomposition)
 
 **References**
-- https://github.com/ofirpress/self-ask
-- https://arxiv.org/abs/2210.03350
+- [Code](https://github.com/ofirpress/self-ask)
+- [Paper](https://arxiv.org/abs/2210.03350)
+
+#llm #prompting #rag
