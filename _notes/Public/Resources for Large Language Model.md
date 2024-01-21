@@ -35,6 +35,7 @@ After some learnings, I have tried to summarise my understanding into different 
 - [x] [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c)
 - [x] [Pattern for LLM](https://eugeneyan.com/writing/llm-patterns)
 - [x] [A Guide on 12 Tuning Strategies for Production-Ready RAG Applications](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439)
+- [ ] [# Evaluating RAG Applications with RAGAs](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a)
 - [ ] [RAG vs Finetuning](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7) by [[Heiko Hotz]]
 - [ ] [ACL 2023: Retrieval-based LM](https://acl2023-retrieval-lm.github.io)
 - [ ] [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169)
