@@ -1,7 +1,7 @@
 ---
 title: HyDE - Precise Zero-Shot Dense Retrieval without Relevance Labels
 notetype: feed
-date: 2024-01-22
+date: 2024-01-23
 ---
 ### Hypothetical Document Embeddings (HyDE)
 
@@ -25,4 +25,4 @@ date: 2024-01-22
 
 Reference: https://boston.lti.cs.cmu.edu/luyug/HyDE/HyDE.pdf
 
-#rag #llm #prompting 
+#rag #llm #prompting
